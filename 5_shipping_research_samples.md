@@ -145,7 +145,7 @@ the "label"*
 >>>>
 >>>> You want to **export or re-export research samples from Finland**. This can be the case if you want to share samples with other research groups, have to export it for processing or you have to return samples to collaboration patners/biobanks after processing (and there are left-overs).
 >>>>
->>>> We only need to **inform our CITES authority (SYKE)** if sending research samples to another CITES-registered institution (see: ). Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoologcal Museum in Oulu has to sign the document.
+>>>> We only need to **inform our CITES authority (SYKE)** if sending research samples to another CITES-registered institution (see: ). Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoologcal Museum in Oulu has to sign the document: https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/03/tieteellinen-vaihto-lipuke_fi_en2010.pdf
 >>>>
 >>>> However, when sending packages containing CITES species, Jouni has always included a signed statement in the package (ask him for that, too):
 >>>>
@@ -570,4 +570,5 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
 
