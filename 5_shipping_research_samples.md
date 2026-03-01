@@ -54,7 +54,6 @@ Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Ge
 Please check if the taxon you want import samples from is listed under **Appendix I or II (or rarely Appendix III)**!
 
 → Check at ***Species+***: https://www.speciesplus.net/
-
 > <details>
 > <summary>🟢 Yes</summary>
 >
@@ -247,3 +246,4 @@ Please check if the taxon you want import samples from is listed under **Appendi
 > biodiversity.genomics@oulu.fi
 
 Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
