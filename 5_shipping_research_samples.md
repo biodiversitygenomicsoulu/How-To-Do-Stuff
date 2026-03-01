@@ -307,28 +307,85 @@ If you transport the samples on your own:
 
 ---
 
-### 5.1.1.5 Storage temperature during transport
+#### 5.1.1.5 Storage temperature during transport
 
-#### 5.1.1.5.1 Do your samples have to be frozen or cooled?
+##### 5.1.1.5.1 Do your samples have to be frozen or cooled?
 
 > <details>
 > <summary>🟢 Yes</summary>
 >
-> You need to **choose a refrigerant / coolant**.
+> You need to **choose a refrigerant / coolant** for your sample transport.
 >
-> ##### **5.1.1.5.1.1 Dry ice**
+> Generally, schedule the transport of frozen samples in **winter** if possible. Higher ambient temperatures influence cooling effect.
 >
-> **Dry ice** is solid carbon dioxide **(UN 1845 Class 9 Miscellaneous Dangerous Good)**.
+> Use **expanded polystyrene (EPS; 'styrofoam') boxes** as the cooling container anyway.
 >
-> → See **5.1.1.6.1.4.2**
+> Coolants: **dry ice** or different types **cooling packs**.
+>
+>> **Table 2**: Overview on applicability of coolant types
+>
+>| **Coolant Type** | **Maintains −20 °C in general?** | **Hours of cooling (with temperature range)** | **Commentary** |
+>| --- | --- | --- | --- |
+>| Water-based ice packs| ❌ No | 4–8 h (around 0 °C → gradually rising) | Will not maintain frozen state. Samples will begin thawing quickly.|
+>| Gel refrigerant packs (0 °C type) | ❌ No | 6–12 h (0 °C to +5 °C typical range → gradually rising) | Designed for refrigerated shipping, not frozen transport.|
+>| Deep-Frozen Gel Packs (−20 °C rated) | ⚠ Partially | ~6–18 h (starts at −20 °C → gradually rising) | Frozen gel packs that start at −20 °C but temperature rises steadily, may allow partial thawing for long durations. |
+>| PCM sheets (0 °C phase change; e.g. ThermaFreeze) | ❌ No | 8–24 h (stable around 0 °C) | Maintains a constant 0 °C; not suitable for −20 °C. |
+>| −20 °C PCM panels | ✅ Yes | ~12–36 h (astable round −20 °C if properly packed) | Suitable for maintaining frozen samples during overnight/express shipment. Duration depends heavily on insulation and load.  |
+>| Dry ice | ✅ Yes (well below −20 °C) | 24–72 h (around −78.5 °C → gradually warming) | **Most reliable for frozen transport.** Duration depends heavily on insulation and load. Read below: **5.1.1.5.1.1 Dry ice** |
+> 
+> ###### **5.1.1.5.1.1 Dry ice**
+>
+> **Dry ice** is solid carbon dioxide **(UN 1845 Class 9 *Miscellaneous Dangerous Good*)**.
+>
+> The sublimation temperature of dry ice is **−78.5 °C**
+(−109.3 °F) at normal atmospheric pressure (1 atm), therefore the **best method to keep samples frozen** and is highly recommendable especially if:
+>
+> - high quality samples for genomic applications (e.g. blood, tissue, etc.)
+> - utilising a courier  
+> - longer or non-express shipments 
+> - valuable or irreplaceable samples
+>
+> Rule of thumb: the **cooling effect** of dry ice of 9 kg of dry ice lasts approximately three to four days. Around 15 – 30 % sublimates within the first 24 hours, depending on the amount of dry ice used. For a basic shipment, 10–15 kg is recommendable depending on sample amount.
+>
+> Contact your collaboration partner for **local distributers** for dry ice to ensure the fast transport of it to the samples before shipment. **The dry ice delivery and the sample shipment have to be well scheduled.** Account for the loss of dry ice during the transport to the samples. Help your collaboration partner if they do not have contact to a distributer for dry ice to find one.
+>
+> → See **5.1.1.6.1.4.2** how to properly pack and declare samples transported with dry ice!
+>
+> ###### **5.1.1.5.1.2 Cooling packs**
+>
+> Cooling packs have, depending on their type (see Table 2 above) lower cooling capacities. So, they can be feasible for samples that just have to be cooled or for short transports of frozen samples depending on the cooling pack type:
+>
+> Gel refrigerant packs/Gel ice packs and Phase change material (PCM) panels/PCM sheets are available in different temperature ratings and phase-change temperatures, respectively. There are certified –20 °C gel and PCM packs.
+>
+>> **Tutorial video for ThermaFreeze:** 
+>>
+>> [![Video Title](https://img.youtube.com/vi/xObXECoD1Io/0.jpg)](https://www.youtube.com/watch?v=xObXECoD1Io)
 >
 > </details>
 
 > <details>
 > <summary>🔴 No</summary>
 >
-> Short summary for transport at room temperature.
+> Short summary for transport at room temperature (RT; ~+21 °C):
 >
+> Tested and recommended alternative sample preservatiuons without the need of a cooling chain that you can prepare: 
+>
+> ###### **5.1.1.5.1.3 Biological liquids (e.g. blood, saliva, urine, cloacal, etc.):**
+>
+> - **Swab samples** (saliva, urine, cloacal, etc.): in a **plastic zip-lock bag** with a **silica gel desiccant sachet** (avoid "free" silica gel since silica has binding properties for DNA); put the swab(s) into a folded filter paper within the plastic bag
+> - **FTA® cards** (blood)
+>
+> ###### **5.1.1.5.1.4 Hair (with follicles), feathers, or dried leaves or tissue (incl. museum specimen):**
+>
+>- in a **plastic zip-lock bag** with a **silica gel desiccant sachet** (avoid "free" silica gel since silica has binding properties for DNA); put the hair(s)/feather(s)/dried tissue into a folded filter paper within the plastic bag
+>
+> ###### **5.1.1.5.1.5 Faeces**
+>
+> Depends in the faecal consistancy; **container with EtOH** were successfully tested for larger mammals (carnivores and bovids) and giant tortoises; plastic **bag with silica gel** are successfully tested for flying squirrel droppling (faecal pellets).
+>
+> - **Container with 95-100 % EtOH**: use multi-purpose container with a srew cap (max. volume: 70 ml, (LxØ): 55 x 44 mm, graduated, PP, transparent) from SARSTEDT; add 33 ml 95 - 100 % EtOH - if the sample is not covered add EtOH; optimal for backup samples; tip especially for transport: avoid EtOH in container thread during sample collection because it can lead to leaking liquids; otherwise safe; depending on the faecal water content the dehyration effect differs because the EtOH gets diluted
+> - in a **plastic zip-lock bag** with a **silica gel desiccant sachet** (avoid "free" silica gel since silica has binding properties for DNA); put the faecal pellets into a folded filter paper within the plastic bag
+> 
 > </details>
 
 ---
@@ -392,5 +449,6 @@ If you transport the samples on your own:
 > biodiversity.genomics@oulu.fi
 
 Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
 
 
