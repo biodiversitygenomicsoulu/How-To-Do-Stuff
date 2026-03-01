@@ -79,30 +79,62 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>> <details>
 >>> <summary>🟢 Yes</summary>
 >>>
->>> **Scientific exchange exemption (SEE)** and simplified CITES procedure possible if the conditions descriped in Table ? are met.
+>>> **Scientific exchange exemption (SEE)** and simplified CITES procedure possible if the conditions descriped in Table 1 are met.
 >>>
->>> **Table 1:**
+>>>> **Table 1:**
 >>>
 >>> | **Types of specimens that can be exchanged under the exemption are:** | **Types of specimens that cannot be exchanged under the exemption include:** |
 >>> | --- | --- |
->>> | Herbarium specimens (e.g. dried or pressed plants and flowers) |  |
->>> | Preserved, dried or embedded museum animal or plant specimens | Any specimens that are not first catalogued and registered in the collection of a registered institution |
+>>> | Herbarium specimens (e.g. dried or pressed plants and flowers)  | – |
+>>> | Preserved, dried or embedded museum animal or plant specimens | Any specimens that are not first catalogued and registered in the collection of a registered institution (e.g.: fresh blood, sera or semen samples, or specimens collected by field researchers) |
 >>> | Non-live animal specimens | Live animal specimens |
 >>> | Live plant material | – |
->>> | Frozen museum specimens | – |
->>> | Forensic research specimens | Enforcement specimens under criminal investigation |
->>> | Diagnostic samples | – |
+>>> | Frozen museum specimens (e.g. frozen tissue samples) | – |
+>>> | Forensic research specimens of the examples of types included in the Annex to Resolution Conf. 11.15 (Rev. CoP18) (non-exhaustive list) | Enforcement specimens that are the subject of an ongoing criminal investigation and which may therefore not legally be exchanged |
+>>> | Diagnostic samples of the types listed in Annex 4 to Resolution Conf. 12.3 (Rev. CoP18) | – |
 >>>
 >>> ###### **5.1.1.2.1.1.1.1 You want to import research samples to Finland?**
 >>>
 >>>> <details>
 >>>> <summary>🟢 Yes</summary>
 >>>>
->>>> Ask your **CITES-registered collaboration partner** for the application of a SEE certificate.
+>>>> Ask your **CITES-registered collaboration partner** for an the application of a SEE, which includes just one certificate: ***Certificate for international exchange between registered scientific institutions entitled to the exemption provided by Article VII, paragraph 6, of the CITES***
 >>>>
->>>> If the certificate has been issued at the location of the samples: **The original certificate has to accompany the samples.**
+>>>> There might be differences in the layout of the certificate/label (in comparison to the example here):
+>>>>>""*The Management Authority of the hosting State (here export or re-export) should issue or approve the template of a label that must accompany the container used to transport the specimens or samples. A label may be a document, sticker, certificate, document affixed (glued on) or in a pouch, etc. Parties have not developed a standard form for the label, so each Management Authority can design its own standard “label.” Such a standard label should include:*
+>>>>> - *The CITES logo*
+>>>>> - *Management Authority of the country "responsible" for institution and having approved
+the "label"*
+>>>>> - *Reference number linking to application filed with Management Authority*"
 >>>>
->>>> → Read in more detail: https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
+>>>> Consider if it is a **export certificate** (country of origin to Finland) or a **re-export certificate** (samples that where already imported to the country from which you want to export them to Finland). If you have a mix of exports and re-exports you need one certificate each.
+>>>>
+>>>> Our **Zoological Museum** in Oulu is CITES-registered, and we can get samples to another CITES-registered institution without a CITES permit.
+>>>>
+>>>>> **Our CITES resgistration (https://cites.org/eng/node/11481)**:
+>>>>
+>>>>> **Institution number:** FI 010
+>>>>>
+>>>>> **Country**: Finland  
+>>>>>  
+>>>>> **Institution type**: Register of scientific institutions  
+>>>>>  
+>>>>> **Address**:  
+>>>>> University of Oulu,  
+>>>>> Biodiversity Unit / Zoological Museum,  
+>>>>> Contact person: Tuula Pudas,  
+>>>>> P.O. Box 3000,  
+>>>>> FI-90014 University of Oulu  
+>>>>>  
+>>>>> **Email**: [tuula.pudas@oulu.fi](mailto:tuula.pudas@oulu.fi)  
+>>>>>  
+>>>>> **Website**: [https://www.oulu.fi/fi/tutkimus/tutkimusinfrastruktuurit/biodiversiteettiyksikko](https://www.oulu.fi/fi/tutkimus/tutkimusinfrastruktuurit/biodiversiteettiyksikko)
+>>>>
+>>>>If the certificate has been issued at the location of the samples: **The original certificate has to accompany the samples.** The certificate comes with a **label (sticker)** that has to attacted to the container with the samples. Always have all samples listed in a certificate in one container together (there is only one label)! The labelling differs between the Management Authorities as mentioned above.
+>>>>
+>>>>A shipment under SEE that meets all the above requirements should be accepted for **import without a CITES permit or certificate** to Finland. In case of doubt as to whether the requirements are met, the Management Authority of the importing State may contact the Management Authority (SYKE) of the exporting State or the CITES Secretariat to seek clarifications.
+>>>>
+>>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
 >>>>
 >>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
 >>>>
@@ -111,10 +143,28 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>>> <details>
 >>>> <summary>🔴 No</summary>
 >>>>
->>>> You want to **export or re-export research samples from Finland**.
+>>>> You want to **export or re-export research samples from Finland**. This can be the case if you want to share samples with other research groups, have to export it for processing or you have to return samples to collaboration patners/biobanks after processing (and there are left-overs).
 >>>>
->>>> Inform SYKE and follow internal CITES procedures.
+>>>> We only need to **inform our CITES authority (SYKE)** if sending research samples to another CITES-registered institution (see: ). Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoologcal Museum in Oulu has to sign the document.
 >>>>
+>>>> However, when sending packages containing CITES species, Jouni has always included a signed statement in the package (ask him for that, too):
+>>>>
+>>>>> "*In this statement, I confirm, as the head of the Zoological Museum Oulu, that the samples are for scientific purposes only, have no commercial value, and that we are exempt from the CITES permit procedure.*"
+>>>>
+>>>> If you want to export/re-export research samples please also inform Tuula Pudas (tuula.pudas@oulu.fi).
+>>>>
+>>>> The signed document has to be send to SYKE:
+>>>> 
+>>>>>**Responsible person for CITES authority services:**
+>>>>
+>>>>> **Hanne Rajanen**  
+>>>>> Ylitarkastaja (Senior Officer), Viranomaispalvelut (Authority Services)  
+>>>>> Suomen ympäristökeskus (Finnish Environment Institute (Syke))  
+>>>>> Email: cites@syke.fi  
+>>>>> Tel: +358 29 5251 332  
+>>>>
+>>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
+>>>> 
 >>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
 >>>>
 >>>> </details>
@@ -123,6 +173,31 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>>
 >>> <details>
 >>> <summary>🔴 No</summary>    
+>>>
+>>> Application for **CITES export permits** (from the country of origin) and **CITES import permits** (to the country you want to import to; if to our lab it would be Finland) are needed (including DNA/RNA extracts or other molecular derivates!).
+>>>
+>>> CITES import, export and re-export application form: https://www.ymparisto.fi/sites/default/files/documents/ImportExportApplicationFiEn_1_2021.pdf
+>>>
+>>> The Management Authority for **CITES import permits for Finland is SYKE** (https://cites.org/eng/parties/country-profiles/fi):
+>>>
+>>>>**Responsible person for CITES authority services:**
+>>>
+>>>> **Hanne Rajanen**  
+>>>> Ylitarkastaja (Senior Officer)  
+>>>> Viranomaispalvelut (Authority Services)  
+>>>> Suomen ympäristökeskus (Finnish Environment Institute (Syke))  
+>>>> Email: cites@syke.fi  
+>>>> Tel: +358 29 5251 332  
+>>>
+>>> Contact your collaboration partner for their local Management Authority for the CITES export permition.
+>>>
+>>> Inform or ask Tuula Pudas (tuula.pudas@oulu.fi) in any case.
+>>>
+>>> Read here for the CITES Customs Procedure – instructions for the permit holder: https://www.ymparisto.fi/sites/default/files/documents/CITES%20permits%20at%20customs%2023.2.2026.pdf
+>>>
+>>> → Read here for more information for CITES in Finland: https://www.ymparisto.fi/en/permits-and-obligations/trade-endangered-species-cites
+>>>
+>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
 >>>
 >>> </details>
 >>
@@ -146,8 +221,12 @@ Please check if the taxon you want import samples from is listed under **Appendi
 > <details>
 > <summary>🟢 Yes</summary>
 >
-> **🔴 No** veterinarian import permit from Ruokavirasto (Finnish Food Authority) is needed.
+> **No** veterinarian import permit from Ruokavirasto (Finnish Food Authority) is needed. 
 >
+> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2025)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
+>
+> Contact the **ABP (Animal By-Products) division at Ruokavirasto (Finnish Food Authority)** if you have questions from EU countries, Switzerland, or Norway: abp@ruokavirasto.fi
+> 
 > </details>
 
 > <details>
@@ -155,9 +234,76 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >
 > Import permit from Ruokavirasto (Finnish Food Authority) is needed.
 >
-> → Keep the documents!
+> Application form:  
+https://link.webropolsurveys.com/S/1613FC7408EFF0A5
+>> **Examplary application for import permit:**
+>>
+>> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
+>>
+>> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2025**
+>>
+>> **Figure 1** (3 pages):
+>> ![alt text](image.png)
+>> ![alt text](image-1.png)
+>> ![alt text](image-2.png)
+>
+> Webpage with more information:  
+https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-animal-products/animal-by-products/elainperaisten-naytteiden-seka-nayttelyesineiden-tuonti/
+>
+> Contact the **Ruoka Tuontilupa (Food Import Permit) division at Ruokavirasto (Finnish Food Authority)** if you have questions: tuontilupa@ruokavirasto.fi
+>
+> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
 >
 > </details>
+
+---
+
+#### **5.1.1.4 Customs**
+
+##### **5.1.1.4.1 Tulli / Finnish Costums**
+
+You need to declare the research samples at Finnish Customs (Tulli) for the import to Finland.
+
+###### **5.1.1.4.1.1 *pro forma* invoice / donation receipt**
+First, The ***pro forma* invoice / donation receipt** for the samples has to be issed by the former owner of the samples. Its hould contain:
+- Sender's name and address
+- Recipient name and address (include registration ID)
+- Issue date
+- Description of material and original species
+- Quantity of each sample type per species
+- nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only)
+- the follwoing description; everything in [  ]you need to check and insert:
+    > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for Costums purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://www.tariffnumber.com/2026/05; also check for different number outside of the EU*]; samples for research not infectious material biological substance, category B UN3373**"
+- signiture by the owner / a respondsible person with the affilation of the owning institution
+
+###### **5.1.1.4.1.2 Custom declaration forms**
+
+Even though not necessary in every case, always prepare the following forms and send them for a customs clearance decision before transport together with **(1) CITES permites** (if needed), **(2) import permit from Ruokavirasto/Finnish Food Authority** (if needed), the **(3) EU commercial document**, and a **(4) *pro forma* invoice** or a **donation receipt** from the : 
+- **976e_25 Report of intended use:**  
+  https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
+
+- if you transport the samples yourself: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
+  https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf
+
+Send those completed forms to the following adresses for the **clearance decision**:
+- if the samples are with the researcher as luggage: lentovalvonta@tulli.fi (Cc Jaana Mikkonen: jaana.mikkonen@tulli.fi)
+
+- if the samples come as cargo, the courier or the university must do the customs clearance
+assignment to a courier
+
+Print out the ***pro forma* invoice/donation receipt**, those **completed forms** and the **customs clearance decision** four times for the sender, receiver, transport operator, and potentially for the Finnsih customs on location.
+
+If you have questions regarding customs documention and clearance contact Jaana Mikkonen: jaana.mikkonen@tulli.fi
+
+→ Read here for the CITES Customs Procedure – instructions for the permit holder: https://www.ymparisto.fi/sites/default/files/documents/CITES%20permits%20at%20customs%2023.2.2026.pdf
+
+→ Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+
+###### **5.1.1.4.1.3 Consider before booking flight tickets**
+
+If you transport the samples on your own:
+- **You have to declare the samples the first time you enter Finland.** If you have a transition at e.g. Helsinki on your way to Oulu: you have to go to Tulli at Helsinki airport at to declare them. You can reach the Helsinki Tulli counter from *International Transit Area* within the airport without the need to be security-checked again close to the gates 29 / 30 (https://www.finavia.fi/en/airports/helsinki-airport/airport/services-facilities/customs-0). If nowbody is in the counter ring the bell on the right side of the counter. Tulli staff is 24/7 available.
+- **Consider a considerable transit time between the flights durig booking tickets.** You have to go to the counter and there might be a queue. 30 - 60 hours between entereing the airport and boarding is neeed at least. The times at your tickets are the times for the plane's arrival and departure and not the times you enter the airport or boarding for the next flight! Boarding closes normally latest 15 minutes before departure.
 
 ---
 
@@ -246,4 +392,5 @@ Please check if the taxon you want import samples from is listed under **Appendi
 > biodiversity.genomics@oulu.fi
 
 Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
 
