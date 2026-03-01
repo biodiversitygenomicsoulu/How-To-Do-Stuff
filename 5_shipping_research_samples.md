@@ -390,9 +390,9 @@ If you transport the samples on your own:
 
 ---
 
-### 5.1.1.6 Courier & airline regulations
+#### 5.1.1.6 Courier & airline regulations
 
-#### 5.1.1.6.1 Do you utilise a courier service?
+##### 5.1.1.6.1 Do you utilise a courier service?
 
 > <details>
 > <summary>🟢 Yes</summary>
@@ -570,5 +570,6 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
 
 
