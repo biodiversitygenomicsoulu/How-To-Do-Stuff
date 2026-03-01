@@ -243,9 +243,9 @@ https://link.webropolsurveys.com/S/1613FC7408EFF0A5
 >> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2025**
 >>
 >> **Figure 1** (3 pages):
->> ![alt text](image.png)
->> ![alt text](image-1.png)
->> ![alt text](image-2.png)
+>> ![alt text](images/image.png)
+>> ![alt text](images/image-1.png)
+>> ![alt text](images/image-2.png)
 >
 > Webpage with more information:  
 https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-animal-products/animal-by-products/elainperaisten-naytteiden-seka-nayttelyesineiden-tuonti/
@@ -527,7 +527,7 @@ The courier or person that transports must have all the original documents liste
 >>
 >> **Note:** There are combined labels for **UN Number** and **Class 9 Label**: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf
 >>
->>![alt text](image-3.png)
+>>![alt text](images/image-3.png)
 >
 > - Use **expanded polystyrene (EPS; 'styrofoam') boxes** as the cooling container in anyway. Thick insulated container (EPS 30–40 mm wall) are recommended.
 >
@@ -570,3 +570,4 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
