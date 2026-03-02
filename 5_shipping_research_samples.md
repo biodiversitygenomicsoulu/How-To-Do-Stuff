@@ -223,7 +223,7 @@ the "label"*
 >
 > **No** veterinarian import permit from Ruokavirasto (Finnish Food Authority) is needed. 
 >
-> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2015)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
+> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2015; https://www.ruokavirasto.fi/globalassets/elaimet/elaimista-saatavat-sivutuotteet-ja-kuolleet-elaimet/sivutuotelaitoslistat/section_x.pdf)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
 >
 > Contact the **ABP (Animal By-Products) division at Ruokavirasto (Finnish Food Authority)** if you have questions from EU countries, Switzerland, or Norway: abp@ruokavirasto.fi
 > 
@@ -584,6 +584,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
