@@ -283,7 +283,7 @@ Even though not necessary in every case, always prepare the following forms and 
   https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
 
 - if you transport the samples yourself: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
-  https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf
+https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf/3e861db9-c446-a2b0-b83a-146af06a42a1/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf?t=1748857975637
 
 Send those completed forms to the following adresses for the **clearance decision**:
 - if the samples are with the researcher as luggage: lentovalvonta@tulli.fi (Cc Jaana Mikkonen: jaana.mikkonen@tulli.fi)
@@ -570,6 +570,7 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
+
 
 
 
