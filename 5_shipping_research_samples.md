@@ -37,13 +37,13 @@ EU commercial document (at least) must include (recommended by Ruokavirasto (Fin
 - Quantities of samples
 - Place of origin and dispatch of the material
 - Sender's name and address  
-- Recipient name and address (NOTE: Please use the registration ID: **Oulun yliopisto, FI-EVIRA-OTH-1-2025**)
+- Recipient name and address (NOTE: Please use the registration ID: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**)
 
 It has to be signed by the the responsible person of place of origin (of the sample(s))!
 
 The commercial document must be drawn up in at least three copies (original copy and two copies). The original shall accompany the consignment to its final destination. The receiver must keep it to himself. The consignor and the transport operator shall each retain one copy. Commercial documents must be kept for at least two years in order to be presented to the competent authority.
 
-Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+→ Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 
 ---
 
@@ -136,7 +136,7 @@ the "label"*
 >>>>
 >>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
 >>>>
->>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+>>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 >>>>
 >>>> </details>
 >>>
@@ -165,7 +165,7 @@ the "label"*
 >>>>
 >>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
 >>>> 
->>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+>>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 >>>>
 >>>> </details>
 >>>
@@ -197,7 +197,7 @@ the "label"*
 >>>
 >>> → Read here for more information for CITES in Finland: https://www.ymparisto.fi/en/permits-and-obligations/trade-endangered-species-cites
 >>>
->>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 >>>
 >>> </details>
 >>
@@ -223,7 +223,7 @@ the "label"*
 >
 > **No** veterinarian import permit from Ruokavirasto (Finnish Food Authority) is needed. 
 >
-> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2025)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
+> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2015)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
 >
 > Contact the **ABP (Animal By-Products) division at Ruokavirasto (Finnish Food Authority)** if you have questions from EU countries, Switzerland, or Norway: abp@ruokavirasto.fi
 > 
@@ -240,19 +240,22 @@ https://link.webropolsurveys.com/S/1613FC7408EFF0A5
 >>
 >> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
 >>
->> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2025**
+>> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
 >>
->> **Figure 1** (3 pages):
+>> <details>
+>> <summary> Figure 1 (3 pages): </summary>
+>> 
 >> ![alt text](images/image.png)
 >> ![alt text](images/image-1.png)
 >> ![alt text](images/image-2.png)
+>> </details>
 >
 > Webpage with more information:  
 https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-animal-products/animal-by-products/elainperaisten-naytteiden-seka-nayttelyesineiden-tuonti/
 >
 > Contact the **Ruoka Tuontilupa (Food Import Permit) division at Ruokavirasto (Finnish Food Authority)** if you have questions: tuontilupa@ruokavirasto.fi
 >
-> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 >
 > </details>
 
@@ -267,13 +270,13 @@ You need to declare the research samples at Finnish Customs (Tulli) for the impo
 ###### **5.1.1.4.1.1 *pro forma* invoice / donation receipt**
 First, The ***pro forma* invoice / donation receipt** for the samples has to be issed by the former owner of the samples. Its hould contain:
 - Sender's name and address
-- Recipient name and address (include registration ID)
+- Recipient name and address (include registration ID **Oulun yliopisto, FI-EVIRA-OTH-1-2015**)
 - Issue date
 - Description of material and original species
 - Quantity of each sample type per species
 - nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only)
 - the follwoing description; everything in [  ]you need to check and insert:
-    > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for Costums purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://www.tariffnumber.com/2026/05; also check for different number outside of the EU*]; samples for research not infectious material biological substance, category B UN3373**"
+    > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for Costums purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; samples for research not infectious material biological substance, UN3373 category B**"
 - signiture by the owner / a respondsible person with the affilation of the owning institution
 
 ###### **5.1.1.4.1.2 Custom declaration forms**
@@ -282,8 +285,15 @@ Even though not necessary in every case, always prepare the following forms and 
 - **976e_25 Report of intended use:**  
   https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
 
-- if you transport the samples yourself: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
+- if you transport the samples yourself*: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
 https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf/3e861db9-c446-a2b0-b83a-146af06a42a1/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf?t=1748857975637
+
+***Form 1143** is intended for private customers, but it is easier to fill in than the actual customs clearance form. Please complete the form using the University of Oulu’s information!:
+- Registration ID: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
+- **Guarantee GRN number** to be used in the University of Oulu’s import customs declaration: **03FI001200101482K**
+- **EORI number** used by the University of Oulu in customs clearance: **FI0245895-5**
+
+When goods are imported from outside the EU, the taxes to be paid typically include customs duty and value-added tax (VAT). Customs duties are determined according to the **tariff number** (CN code: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree) of the goods and their customs value. Our wildlife research samples for genetics are *MOSTLY* classified under the tariff number **CN code: 0511 99 85 90**. According to TARIC (https://taxation-customs.ec.europa.eu/customs/customs-tariff/eu-customs-tariff-taric_en), the standard third-country **customs duty** is typically 0%. However, **Import VAT** is generally payable. VAT relief may be available on a case-specific basis. Always consult Finnish Customs (Tulli) when applying for customs clearance!
 
 Send those completed forms to the following adresses for the **clearance decision**:
 - if the samples are with the researcher as luggage: lentovalvonta@tulli.fi (Cc Jaana Mikkonen: jaana.mikkonen@tulli.fi)
@@ -291,19 +301,22 @@ Send those completed forms to the following adresses for the **clearance decisio
 - if the samples come as cargo, the courier or the university must do the customs clearance
 assignment to a courier
 
+Customs clearance is also possible through **Tulliselvittäminen (Customs Declaration Service; https://www.suomi.fi/e-authorizations/mandate-themes/customs-clearance/a4df9c8b4422447c2b5425ccf6e37816)** with an university's **Suomi.fi authorization**. For the University of Oulu, the Suomi.fi authorizations are granted by HR (hr@oulu.fi). You can apply for the Suomi.fi authorization in the **Eforms system** using the electronic “Käyttöoikeuksien haku” (Access Rights Request) form. More information on applying for a Suomi.fi authorization can be found in **Patio**:
+https://patio.oulu.fi/fi/palvelut-ja-ohjeet/talous-ja-hankinnat/projektien-taloushallinto/suomifi-valtuus
+
 Print out the ***pro forma* invoice/donation receipt**, those **completed forms** and the **customs clearance decision** four times for the sender, receiver, transport operator, and potentially for the Finnsih customs on location.
 
 If you have questions regarding customs documention and clearance contact Jaana Mikkonen: jaana.mikkonen@tulli.fi
 
 → Read here for the CITES Customs Procedure – instructions for the permit holder: https://www.ymparisto.fi/sites/default/files/documents/CITES%20permits%20at%20customs%2023.2.2026.pdf
 
-→ Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.
+→ Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 
 ###### **5.1.1.4.1.3 Consider before booking flight tickets**
 
 If you transport the samples on your own:
 - **You have to declare the samples the first time you enter Finland.** If you have a transition at e.g. Helsinki on your way to Oulu: you have to go to Tulli at Helsinki airport at to declare them. You can reach the Helsinki Tulli counter from *International Transit Area* within the airport without the need to be security-checked again close to the gates 29 / 30 (https://www.finavia.fi/en/airports/helsinki-airport/airport/services-facilities/customs-0). If nowbody is in the counter ring the bell on the right side of the counter. Tulli staff is 24/7 available.
-- **Consider a considerable transit time between the flights durig booking tickets.** You have to go to the counter and there might be a queue. 30 - 60 hours between entereing the airport and boarding is neeed at least. The times at your tickets are the times for the plane's arrival and departure and not the times you enter the airport or boarding for the next flight! Boarding closes normally latest 15 minutes before departure.
+- **Consider a considerable transit time between the flights durig booking tickets.** You have to go to the counter and there might be a queue. 30 - 60 minutes between entereing the airport and boarding is neeed at least. The times at your tickets are the times for the plane's arrival and departure and not the times you enter the airport or boarding for the next flight! Boarding closes normally latest 15 minutes before departure.
 
 ---
 
@@ -541,10 +554,10 @@ The courier or person that transports must have all the original documents liste
 >
 > - Stick the following lables well visible on the outer box (if needed):
 >   - Biological samples (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
->   - Dry ice (**UN 1845 Class 9 *Miscellaneous Dangerous Good***: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf)
->   - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
+>   - Dry ice (**UN 1845 Class 9 *Miscellaneous Dangerous Good***: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf) <details><summary> ℹ️ There are **UN 1845 Class 9 *Miscellaneous Dangerous Good*** available in our Molecular Lab! **Click to see Figure 4**: </summary> ![alt text](images/Dry_ice_label_1.png) ![alt text](images/Dry_ice_label_2.png) ![alt text](images/Dry_ice_label_3.jpeg) </details>
+>    - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
 > 
-> </details>
+></details>
 
 > <details>
 > <summary>🔴 No</summary>
@@ -570,6 +583,8 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
+- Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
