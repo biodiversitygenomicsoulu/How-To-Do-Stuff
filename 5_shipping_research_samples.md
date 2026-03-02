@@ -270,7 +270,7 @@ You need to declare the research samples at Finnish Customs (Tulli) for the impo
 ###### **5.1.1.4.1.1 *pro forma* invoice / donation receipt**
 First, The ***pro forma* invoice / donation receipt** for the samples has to be issed by the former owner of the samples. Its hould contain:
 - Sender's name and address
-- Recipient name and address (include registration ID **Oulun yliopisto, FI-EVIRA-OTH-1-2015**)
+- Recipient name and address (include registration **Business ID: 0245895-5**)
 - Issue date
 - Description of material and original species
 - Quantity of each sample type per species
@@ -289,7 +289,7 @@ Even though not necessary in every case, always prepare the following forms and 
 https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf/3e861db9-c446-a2b0-b83a-146af06a42a1/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf?t=1748857975637
 
 ***Form 1143** is intended for private customers, but it is easier to fill in than the actual customs clearance form. Please complete the form using the University of Oulu’s information!:
-- Registration ID: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
+- **Business ID: 0245895-5**
 - **Guarantee GRN number** to be used in the University of Oulu’s import customs declaration: **03FI001200101482K**
 - **EORI number** used by the University of Oulu in customs clearance: **FI0245895-5**
 
@@ -584,6 +584,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
