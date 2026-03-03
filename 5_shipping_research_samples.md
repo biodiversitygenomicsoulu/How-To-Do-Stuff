@@ -315,7 +315,7 @@ If you have questions regarding customs documention and clearance contact Jaana 
 ###### **5.1.1.4.1.3 Consider before booking flight tickets**
 
 If you transport the samples on your own:
-- **You have to declare the samples the first time you enter Finland.** If you have a transition at e.g. Helsinki on your way to Oulu: you have to go to Tulli at Helsinki airport at to declare them. You can reach the Helsinki Tulli counter from *International Transit Area* within the airport without the need to be security-checked again close to the gates 29 / 30 (https://www.finavia.fi/en/airports/helsinki-airport/airport/services-facilities/customs-0). If nowbody is in the counter ring the bell on the right side of the counter. Tulli staff is 24/7 available.
+- **You have to declare the samples the first time you enter Finland.** If you have a transition at e.g. Helsinki on your way to Oulu: you have to go to **Tulli at Helsinki airport** at to declare them. You can reach the Helsinki Tulli counter from *International Transit Area* within the airport without the need to be security-checked again close to the **gates 29 / 30** (https://www.finavia.fi/en/airports/helsinki-airport/airport/services-facilities/customs-0). If nowbody is in the counter ring the bell on the right side of the counter. Tulli staff is 24/7 available.
 - **Consider a considerable transit time between the flights durig booking tickets.** You have to go to the counter and there might be a queue. 30 - 60 minutes between entereing the airport and boarding is neeed at least. The times at your tickets are the times for the plane's arrival and departure and not the times you enter the airport or boarding for the next flight! Boarding closes normally latest 15 minutes before departure.
 
 ---
@@ -584,6 +584,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
