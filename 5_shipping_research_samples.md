@@ -489,7 +489,7 @@ If you transport the samples on your own:
 >
 > **(2)** Book your ticket and then inform your airline with you booking number about the dry ice in you baggage. Ask for a clearence document and print it - airport staff might already ask you for allowence before boarding.
 >
-> **Note:** Consider that your checked baggage could get lost during transit. It is advisable to transport the samples as carry-on baggage if the coolant will not last for the entire scheduled travel duration.
+> **Note:** Consider that your checked baggage could get lost during transit. It is advisable to transport the samples as carry-on baggage if the coolant will not last beyond the scheduled travel duration.
 >
 > ###### **5.1.1.6.1.4.3 Cooling packs**
 >
@@ -584,6 +584,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
