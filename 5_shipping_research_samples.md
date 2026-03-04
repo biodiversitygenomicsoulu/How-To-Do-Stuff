@@ -48,6 +48,8 @@ The commercial document must be drawn up in at least three copies (original copy
 ---
 
 #### **5.1.1.2 CITES**
+ ![alt text](images/CITES_small.png)  ![alt text](images/SYKE_small.png)
+
 **CITES** = acrynym for the **Convention on International Trade in Endangered Species of Wild Fauna and Flora**, also known as the **Washington Convention**
 
 ##### **5.1.1.2.1 CITES-listed taxon?**
@@ -216,6 +218,8 @@ the "label"*
 
 #### **5.1.1.3 Ruokavirasto / Finnish Food Authority**
 
+![alt text](images/Ruokavirasto.png)
+
 ##### **5.1.1.3.1 Import from EU country, Switzerland, or Norway?**
 
 > <details>
@@ -264,6 +268,8 @@ https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-anima
 #### **5.1.1.4 Customs**
 
 ##### **5.1.1.4.1 Tulli / Finnish Costums**
+
+ ![alt text](images/Tulli_small.png)
 
 You need to declare the research samples at Finnish Customs (Tulli) for the import to Finland.
 
@@ -584,6 +590,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
