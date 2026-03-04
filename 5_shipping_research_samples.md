@@ -238,6 +238,8 @@ the "label"*
 >
 > Import permit from Ruokavirasto (Finnish Food Authority) is needed.
 >
+> The processing of the import permit takes **1-4 weeks** and costs **€164** in accordance with Regulation 820/2024 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €293, including the import permit price of €164 and the urgency surcharge of €129. It is recommended to collectivaly apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
+>
 > Application form:  
 https://link.webropolsurveys.com/S/1613FC7408EFF0A5
 >> **Examplary application for import permit:**
@@ -590,6 +592,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
