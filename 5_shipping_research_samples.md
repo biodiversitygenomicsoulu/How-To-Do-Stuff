@@ -4,7 +4,8 @@
 
 Go through this step-by-step check list for shipping research samples along the key questions.
 
-This check list is only for internal use, based on experience and no official guideline from one of the authorities! There might be changes and or inaccuracies. Always contact the responsible institutions and authorities if you have questions (some contact information is noted below).
+> [!IMPORTANT]
+> This preliminary check list is only for internal use, based on experience, no official guideline from one of the authorities, and subject to ongoing development! There might be changes and or inaccuracies. Always contact the responsible institutions and authorities if you have questions (some contact information is noted below).
 
 ### 5.1.1 Before transport
 
@@ -592,6 +593,7 @@ The courier or person that transports must have all the original documents liste
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
+
 
 
 
