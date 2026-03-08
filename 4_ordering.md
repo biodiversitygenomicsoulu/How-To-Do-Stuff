@@ -4,10 +4,12 @@ Link to order history excel: [TO DO]
 ## 4.2	Ordering primers
 Email to: oligo@tagc.com
 
-Copy and paste Email:
 > [!IMPORTANT]
 > Adjust details marked in **bold**!
 
+> <details>
+> <summary>Copy, paste, and adjust Email:</summary>
+> 
 > Hello,
 > 
 > I would like to order the following primers:
@@ -48,6 +50,7 @@ Copy and paste Email:
 >  
 > Sincerely,  
 > **YOUR NAME**
+> </details>
 
 ## 4.3	How to pay for stuff
 ### 4.3.1	Funding account numbers
