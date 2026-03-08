@@ -3,6 +3,15 @@ Repository on organisational matters of the BioDiv Genomics Group (lab managemen
 
 # Table of Contents
 
+- [4 Ordering](4_ordering.md#4-ordering)
+  - [4.1 Ordering list](4_ordering.md#41-ordering-list)
+  - [4.2 Ordering primers](4_ordering.md#42-ordering-primers)
+  - [4.3 How to pay for stuff](4_ordering.md#43-how-to-pay-for-stuff)
+    - [4.3.1 Funding account numbers](4_ordering.md#431-funding-account-numbers)
+    - [4.3.2 Paper billing address](4_ordering.md#432-paper-billing-address)
+    - [4.3.3 e-invoice address](4_ordering.md#433-e-invoice-address)
+    - [4.3.4 VAT number](4_ordering.md#434-vat-number)
+
 - [5 Shipping research samples](5_shipping_research_samples.md#5-shipping-research-samples)
   - [5.1 Checklist for research sample transport](5_shipping_research_samples.md#51-check-list-for-research-sample-transport)
     - [5.1.1 Before transport](5_shipping_research_samples.md#511-before-transport)
