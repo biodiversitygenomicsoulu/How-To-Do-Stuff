@@ -101,47 +101,59 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>>> <details>
 >>>> <summary>🟢 Yes</summary>
 >>>>
->>>> Ask your **CITES-registered collaboration partner** for an the application of a SEE, which includes just one certificate: ***Certificate for international exchange between registered scientific institutions entitled to the exemption provided by Article VII, paragraph 6, of the CITES***
+>>>> ###### **5.1.1.2.1.1.1.1.1 You want to import research samples to Finland from an EU country?**
 >>>>
->>>> There might be differences in the layout of the certificate/label (in comparison to the example here):
->>>>>""*The Management Authority of the hosting State (here export or re-export) should issue or approve the template of a label that must accompany the container used to transport the specimens or samples. A label may be a document, sticker, certificate, document affixed (glued on) or in a pouch, etc. Parties have not developed a standard form for the label, so each Management Authority can design its own standard “label.” Such a standard label should include:*
->>>>> - *The CITES logo*
->>>>> - *Management Authority of the country "responsible" for institution and having approved
-the "label"*
->>>>> - *Reference number linking to application filed with Management Authority*"
->>>>
->>>> Consider if it is a **export certificate** (country of origin to Finland) or a **re-export certificate** (samples that where already imported to the country from which you want to export them to Finland). If you have a mix of exports and re-exports you need one certificate each.
->>>>
->>>> Our **Zoological Museum** in Oulu is CITES-registered, and we can get samples to another CITES-registered institution without a CITES permit.
->>>>
->>>>> **Our CITES resgistration (https://cites.org/eng/node/11481)**:
->>>>
->>>>> **Institution number:** FI 010
+>>>>> <details>
+>>>>> <summary>🟢 Yes</summary>
 >>>>>
->>>>> **Country**: Finland  
->>>>>  
->>>>> **Institution type**: Register of scientific institutions  
->>>>>  
->>>>> **Address**:  
->>>>> University of Oulu,  
->>>>> Biodiversity Unit / Zoological Museum,  
->>>>> Contact person: Tuula Pudas,  
->>>>> P.O. Box 3000,  
->>>>> FI-90014 University of Oulu  
->>>>>  
->>>>> **Email**: [tuula.pudas@oulu.fi](mailto:tuula.pudas@oulu.fi)  
->>>>>  
->>>>> **Website**: [https://www.oulu.fi/fi/tutkimus/tutkimusinfrastruktuurit/biodiversiteettiyksikko](https://www.oulu.fi/fi/tutkimus/tutkimusinfrastruktuurit/biodiversiteettiyksikko)
->>>>
->>>>If the certificate has been issued at the location of the samples: **The original certificate has to accompany the samples.** The certificate comes with a **label (sticker)** that has to attacted to the container with the samples. Always have all samples listed in a certificate in one container together (there is only one label)! The labelling differs between the Management Authorities as mentioned above.
->>>>
->>>>A shipment under SEE that meets all the above requirements should be accepted for **import without a CITES permit or certificate** to Finland. In case of doubt as to whether the requirements are met, the Management Authority of the importing State may contact the Management Authority (SYKE) of the exporting State or the CITES Secretariat to seek clarifications.
->>>>
->>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
->>>>
->>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
->>>>
->>>> </details>
+>>>>> BLA
+>>>>>
+>>>>> </details>
+>>>>> <details>
+>>>>> <summary>🔴 No</summary>
+>>>>>
+>>>>>
+>>>>> Ask your **CITES-registered collaboration partner** for an the application of a SEE, which includes just one certificate: ***Certificate for international exchange between registered scientific institutions entitled to the exemption provided by Article VII, paragraph 6, of the CITES***
+>>>>>
+>>>>> There might be differences in the layout of the certificate/label (in comparison to the example here):
+>>>>>> ""*The Management Authority of the hosting State (here export or re-export) should issue or approve the template of a label that must accompany the container used to transport the specimens or samples. A label may be a document, sticker, certificate, document affixed (glued on) or in a pouch, etc. Parties have not developed a standard form for the label, so each Management Authority can design its own standard “label.” Such a standard label should include:*
+>>>>>> - *The CITES logo*
+>>>>>> - *Management Authority of the country "responsible" for institution and having approved
+the "label"*
+>>>>>> - *Reference number linking to application filed with Management Authority*"
+>>>>>
+>>>>> Consider if it is a **export certificate** (country of origin to Finland) or a **re-export certificate** (samples that where already imported to the country from which you want to export them to Finland). If you have a mix of exports and re-exports you need one certificate each.
+>>>>>
+>>>>> Our **Zoological Museum** in Oulu is CITES-registered, and we can get samples to another CITES-registered institution without a CITES permit.
+>>>>>
+>>>>>> **Our CITES resgistration (https://cites.org/eng/node/11481)**:
+>>>>>
+>>>>>> **Institution number:** FI 010
+>>>>>>
+>>>>>> **Country**: Finland  
+>>>>>>  
+>>>>>> **Institution type**: Register of scientific institutions  
+>>>>>>  
+>>>>>> **Address**:  
+>>>>>> University of Oulu,  
+>>>>>> Biodiversity Unit / Zoological Museum,  
+>>>>>> Contact person: Tuula Pudas,  
+>>>>>> P.O. Box 3000,  
+>>>>>> FI-90014 University of Oulu  
+>>>>>>  
+>>>>>> **Email**: [tuula.pudas@oulu.fi](mailto:tuula.pudas@oulu.fi)  
+>>>>>>  
+>>>>>> **Website**: [https://www.oulu.fi/fi/tutkimus/tutkimusinfrastruktuurit/biodiversiteettiyksikko](https://www.oulu.fi/fi/tutkimus/tutkimusinfrastruktuurit/biodiversiteettiyksikko)
+>>>>>
+>>>>> If the certificate has been issued at the location of the samples: **The original certificate has to accompany the samples.** The certificate comes with a **label (sticker)** that has to attacted to the container with the samples. Always have all samples listed in a certificate in one container together (there is only one label)! The labelling differs between the Management Authorities as mentioned above.
+>>>>>
+>>>>> A shipment under SEE that meets all the above requirements should be accepted for **import without a CITES permit or certificate** to Finland. In case of doubt as to whether the requirements are met, the Management Authority of the importing State may contact the Management Authority (SYKE) of the exporting State or the CITES Secretariat to seek clarifications.
+>>>>>
+>>>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
+>>>>>
+>>>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
+>>>>>
+>>>>> </details>
 >>>
 >>>> <details>
 >>>> <summary>🔴 No</summary>
@@ -614,6 +626,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
+
 
 
 
