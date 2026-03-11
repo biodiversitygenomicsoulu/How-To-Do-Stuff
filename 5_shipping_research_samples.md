@@ -241,6 +241,7 @@ the "label"*
 >>>
 >>> </details>
 >>>
+>>
 >>> <details>
 >>> <summary>🔴 No</summary>    
 >>>
@@ -681,21 +682,4 @@ The courier or person that transports must have all the original documents liste
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
