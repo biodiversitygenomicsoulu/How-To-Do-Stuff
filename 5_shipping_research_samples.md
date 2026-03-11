@@ -231,6 +231,12 @@ the "label"*
 >>>>>
 >>>>> Fill out the form and send us a copy of the label (at least the bottom part) by post or email cites@syke.fi. Syke archives the labels. You should also archive the copies in your institute so that the numbering of the tickets goes smoothly when you have several labels during the year.
 >>>>>
+>>>>> Additional to the signed form, add a **official letter** including a signed statement by Jouni Aspi (Jouni.Aspi@oulu.fi) accompanying the parcel:
+>>>>>
+>>>>>> "*In this statement, I confirm, as the head of the Zoological Museum Oulu, that the samples are for scientific purposes only, have no commercial value, and that we are exempt from the CITES permit procedure.*"
+>>>>>
+>>>>> If you want to export/re-export research samples please also inform Tuula Pudas (tuula.pudas@oulu.fi).
+>>>>>
 >>>>> → Read in more detail (especially under **III. Scientific Exchange Exemption**): https://cites.org/sites/default/files/eng/prog/exemptions/E_SimplifiedProcedures_endorsed_SC73.pdf
 >>>>> 
 >>>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
@@ -683,4 +689,5 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
