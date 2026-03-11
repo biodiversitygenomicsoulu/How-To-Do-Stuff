@@ -284,15 +284,28 @@ First, The ***pro forma* invoice / donation receipt** for the samples has to be 
 - Description of material and original species
 - Quantity of each sample type per species
 - nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only)
-- the follwoing description; everything in [  ]you need to check and insert:
+- the follwoing description; everything in [  ] you need to check and insert:
     > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for Costums purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; samples for research not infectious material biological substance, UN3373 category B**"
 - signiture by the owner / a respondsible person with the affilation of the owning institution
+
+More information on providing value details:  
+https://tulli.fi/en/businesses/import/common-guidance/providing-value-details
 
 ###### **5.1.1.4.1.2 Custom declaration forms**
 
 Even though not necessary in every case, always prepare the following forms and send them for a customs clearance decision before transport together with **(1) CITES permites** (if needed), **(2) import permit from Ruokavirasto/Finnish Food Authority** (if needed), the **(3) EU commercial document**, and a **(4) *pro forma* invoice** or a **donation receipt** from the : 
-- **976e_25 Report of intended use:**  
+- **976e_25 Report of intended use:**  (= a Finnish Customs template form of the **SAD (Single Administrative Document) declaration**)
   https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
+
+  → [View SAD form example](documents/SAD_example.pdf)
+
+  ***Alternative for SAD form:***
+  *Electronic declaration in the Customs Clearance Service (instead of paper, you submit an electronic import declaration in the Customs Clearance Service run by Finnish Customs):*  
+  *- Wait until the plane has landed in Finland. The declaration cannot be submitted before arrival.*  
+  *- Log into the Customs Clearance Service and submit the import declaration.*  
+  *- After submission you receive an MRN (Movement Reference Number).*  
+  *- When you pass customs at the airport: Choose the red channel / goods to declare.*  
+  *- Show the MRN number to the customs officer.*
 
 - if you transport the samples yourself*: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
 https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf/3e861db9-c446-a2b0-b83a-146af06a42a1/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf?t=1748857975637
@@ -304,11 +317,18 @@ https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declarat
 
 When goods are imported from outside the EU, the taxes to be paid typically include customs duty and value-added tax (VAT). Customs duties are determined according to the **tariff number** (CN code: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree) of the goods and their customs value. Our wildlife research samples for genetics are *MOSTLY* classified under the tariff number **CN code: 0511 99 85 90**. According to TARIC (https://taxation-customs.ec.europa.eu/customs/customs-tariff/eu-customs-tariff-taric_en), the standard third-country **customs duty** is typically 0%. However, **Import VAT** is generally payable. VAT relief may be available on a case-specific basis. Always consult Finnish Customs (Tulli) when applying for customs clearance!
 
+*Goods that are imported for examination or test purposes can be granted relief from customs duty and exemption. The duty relief is based on Articles 95–101 of Council Regulation (EC) No 1186/2009 (Duty Relief Regulation). Goods imported based on Article 95 of the Duty Relief Regulation can be released for free circulation free of customs duty and VAT. Goods imported for examination or test purposes - Finnish Customs: https://tulli.fi/en/businesses/import/relief-from-customs-duty/relief-from-customs-duty-on-the-basis-of-the-duty-relief-regulation/goods-imported-for-examination-or-test-purposes*
+
+*Provide the value of the goods in the Customs Clearance Service under “Transaction price” or with a message in the section for the invoiced goods item amount.*
+
+More information on providing value details:  
+https://tulli.fi/en/businesses/import/common-guidance/providing-value-details
+
 Send those completed forms to the following adresses for the **clearance decision**:
 - if the samples are with the researcher as luggage: lentovalvonta@tulli.fi (Cc Jaana Mikkonen: jaana.mikkonen@tulli.fi)
 
 - if the samples come as cargo, the courier or the university must do the customs clearance
-assignment to a courier
+assignment to a courier. This must be agreed with the courier.
 
 Customs clearance is also possible through **Tulliselvittäminen (Customs Declaration Service; https://www.suomi.fi/e-authorizations/mandate-themes/customs-clearance/a4df9c8b4422447c2b5425ccf6e37816)** with an university's **Suomi.fi authorization**. For the University of Oulu, the Suomi.fi authorizations are granted by HR (hr@oulu.fi). You can apply for the Suomi.fi authorization in the **Eforms system** using the electronic “Käyttöoikeuksien haku” (Access Rights Request) form. More information on applying for a Suomi.fi authorization can be found in **Patio**:
 https://patio.oulu.fi/fi/palvelut-ja-ohjeet/talous-ja-hankinnat/projektien-taloushallinto/suomifi-valtuus
@@ -592,10 +612,8 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
-- Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas
-
-
-
+- Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
+- Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 
 
 
