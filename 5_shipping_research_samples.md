@@ -75,7 +75,7 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >> <details>
 >> <summary>🔴 No</summary>
 >>
->> ###### **5.1.1.2.1.1.1 CITES permits needed, but samples from institution with CITES registration/accreditation?**
+>> ###### **5.1.1.2.1.1.1 CITES needed, but samples from institution with CITES registration/accreditation?**
 >>
 >> → Check here: https://cites.org/eng/common/reg/si/summary.html
 >>
@@ -106,12 +106,11 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>>>> <details>
 >>>>> <summary>🟢 Yes</summary>
 >>>>>
->>>>> BLA
+>>>>> There is difference if you import samples from another EU country or to a third country. **Inside EU, you don’t need to use the CITES scientific exchange labels.** Both institutions write an **official letter** explaining what the shipment is about (exchange of scientific material between two scientific institutions within the EU; the scientific material in question is described and its intended use is specified). **The documents must accompany the shipment.** This ensures that no authority (including Customs) is left in any doubt as to what goods are being transported, who is transporting them, and for what purpose.
 >>>>>
 >>>>> </details>
 >>>>> <details>
 >>>>> <summary>🔴 No</summary>
->>>>>
 >>>>>
 >>>>> Ask your **CITES-registered collaboration partner** for an the application of a SEE, which includes just one certificate: ***Certificate for international exchange between registered scientific institutions entitled to the exemption provided by Article VII, paragraph 6, of the CITES***
 >>>>>
@@ -626,6 +625,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
+
 
 
 
