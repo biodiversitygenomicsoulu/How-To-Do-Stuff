@@ -181,7 +181,7 @@ the "label"*
 >>>> <details>
 >>>> <summary>🔴 No</summary>
 >>>>
->>>> ###### **5.1.1.2.1.1.1.1.1 You want to (re)export research samples from Finland to an EU country?**
+>>>> ###### **5.1.1.2.1.1.1.1.2 You want to (re)export research samples from Finland to an EU country?**
 >>>>
 >>>> You want to **export or re-export research samples from Finland**. This can be the case if you want to share samples with other research groups, have to export it for processing or you have to return samples to collaboration patners/biobanks after processing (and there are left-overs).
 >>>> 
@@ -691,6 +691,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
