@@ -153,13 +153,17 @@ the "label"*
 >>>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 >>>>>
 >>>>> </details>
->>>
+>>>>
 >>>> <details>
 >>>> <summary>🔴 No</summary>
+>>>> ###### **5.1.1.2.1.1.1.1.1 You want to (re)export research samples from Finland to an EU country?**
 >>>>
 >>>> You want to **export or re-export research samples from Finland**. This can be the case if you want to share samples with other research groups, have to export it for processing or you have to return samples to collaboration patners/biobanks after processing (and there are left-overs).
->>>>
->>>> We only need to **inform our CITES authority (SYKE)** if sending research samples to another CITES-registered institution (see: https://cites.org/eng/common/reg/si/summary.html). Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoologcal Museum in Oulu has to sign the document: https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/03/tieteellinen-vaihto-lipuke_fi_en2010.pdf
+>>>> 
+>>>>> <details>
+>>>>> <summary>🟢 Yes</summary>
+>>>>>
+>>>>> We only need to **inform our CITES authority (SYKE)** if sending research samples to another CITES-registered institution (see: https://cites.org/eng/common/reg/si/summary.html). Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoologcal Museum in Oulu has to sign the document: https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/03/tieteellinen-vaihto-lipuke_fi_en2010.pdf
 >>>>
 >>>> However, when sending packages containing CITES species, Jouni has always included a signed statement in the package (ask him for that, too):
 >>>>
@@ -181,6 +185,16 @@ the "label"*
 >>>> 
 >>>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
 >>>>
+>>>>>
+>>>>> </details>
+>>>>> <details>
+>>>>> <summary>🔴 No</summary>
+>>>>>
+>>>>> BLA
+>>>>>
+>>>>> </details>
+>>>>
+>>>>
 >>>> </details>
 >>>
 >>> </details>
@@ -194,7 +208,7 @@ the "label"*
 >>>
 >>> The Management Authority for **CITES import permits for Finland is SYKE** (https://cites.org/eng/parties/country-profiles/fi):
 >>>
->>>>**Responsible person for CITES authority services:**
+>>>> **Responsible person for CITES authority services:**
 >>>
 >>>> **Hanne Rajanen**  
 >>>> Ylitarkastaja (Senior Officer)  
@@ -625,6 +639,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
+
 
 
 
