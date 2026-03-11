@@ -245,7 +245,7 @@ the "label"*
 >>> <details>
 >>> <summary>🔴 No</summary>    
 >>>
->>> Application for **CITES export permits** (from the country of origin) and **CITES import permits** (to the country you want to import to; if to our lab it would be Finland) are needed (including DNA/RNA extracts or other molecular derivates!).
+>>> Application for **CITES export permits** (from the country's authority of origin) and **CITES import permits** (to the country you want to import to; if to our lab it would be Finland) are needed (including DNA/RNA extracts or other molecular derivates!).
 >>>
 >>> CITES import, export and re-export application form: https://www.ymparisto.fi/sites/default/files/documents/ImportExportApplicationFiEn_1_2021.pdf
 >>>
@@ -683,3 +683,4 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
