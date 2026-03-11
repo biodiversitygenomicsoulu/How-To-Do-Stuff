@@ -677,6 +677,8 @@ The courier or person that transports must have all the original documents liste
 
 ---
 
+ ![alt text](images/Logo_small.png) 
+
 > **Biodiversity Genomics Goup**  
 > Ecology and Genetics Research Unit  
 > University of Oulu, Finland  
@@ -689,5 +691,6 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
