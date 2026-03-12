@@ -41,6 +41,14 @@ EU commercial document (at least) must include (recommended by Ruokavirasto (Fin
 - Place of origin and dispatch of the material
 - Sender's name and address  
 - Recipient name and address (NOTE: Please use the registration ID: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**)
+- if you have import permits (see below!):
+  - add their **Certificate reference number (1.2)**
+  - add the **Central Competent Authority (1.3**; here mostly SYKE and/or Ruokavirasto)
+  - add the **Local Competent Authority (1.4)**
+    - SYKE: **Hanne Rajanen, Ylitarkastaja (Senior Officer), Viranomaispalvelut (Authority Services), Tel: +358 29 5251 332, Email: cites@syke.fi**
+    - Veterianarian import permit: **Sonja Kneckt, veterinarian supervisior (Oulu municipality), Tel. +358 4470 3678, Email: sonja.kneckt@ouka.fi**
+
+→ [View EU commercial document form example](documents/commercial-document_traces_2026.pdf)
 
 It has to be signed by the the responsible person of place of origin (of the sample(s))!
 
@@ -324,6 +332,7 @@ https://link.webropolsurveys.com/S/1613FC7408EFF0A5
 >> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
 >>
 >> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
+>> Our local veterianrian supervision: **Sonja Kneckt, veterinarian supervisior (Oulu municipality), Tel. +358 4470 3678, e-mail: sonja.kneckt@ouka.fi**
 >>
 >> <details>
 >> <summary> Figure 1 (3 pages): </summary>
@@ -693,6 +702,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
