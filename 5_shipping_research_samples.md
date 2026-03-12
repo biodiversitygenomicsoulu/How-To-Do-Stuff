@@ -48,7 +48,7 @@ EU commercial document (at least) must include (recommended by Ruokavirasto (Fin
     - SYKE: **Hanne Rajanen, Ylitarkastaja (Senior Officer), Viranomaispalvelut (Authority Services), Tel: +358 29 5251 332, Email: cites@syke.fi**
     - Veterianarian import permit: **Sonja Kneckt, veterinarian supervisior (Oulu municipality), Tel. +358 4470 3678, Email: sonja.kneckt@ouka.fi**
 
-→ [View EU commercial document form example](documents/commercial-document_traces_2026.pdf)
+→ [📝 View EU commercial document form example](documents/commercial-document_traces_2026.pdf)
 
 It has to be signed by the the responsible person of place of origin (of the sample(s))!
 
@@ -332,6 +332,7 @@ https://link.webropolsurveys.com/S/1613FC7408EFF0A5
 >> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
 >>
 >> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
+>> 
 >> Our local veterianrian supervision: **Sonja Kneckt, veterinarian supervisior (Oulu municipality), Tel. +358 4470 3678, Email: sonja.kneckt@ouka.fi**
 >>
 >> <details>
@@ -382,7 +383,7 @@ Even though not necessary in every case, always prepare the following forms and 
 - **976e_25 Report of intended use:**  (= a Finnish Customs template form of the **SAD (Single Administrative Document) declaration**)
   https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
 
-  → [View SAD form example](documents/SAD_example.pdf)
+  → [📝 View SAD form example](documents/SAD_example.pdf)
 
   ***Alternative for SAD form:***
   *Electronic declaration in the Customs Clearance Service (instead of paper, you submit an electronic import declaration in the Customs Clearance Service run by Finnish Customs):*  
@@ -704,6 +705,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
