@@ -327,7 +327,7 @@ the "label"*
 >
 > Application form:  
 https://link.webropolsurveys.com/S/1613FC7408EFF0A5
->> **Examplary application for import permit:**
+>> **📝 View examplary application for import permit:**
 >>
 >> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
 >>
@@ -705,6 +705,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
