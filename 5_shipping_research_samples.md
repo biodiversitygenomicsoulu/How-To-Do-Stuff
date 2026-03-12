@@ -25,6 +25,8 @@ Consider 6 different checks **BEFORE** shipping in this order:
 ---
 #### **5.1.1.1 EU commercial document**
 
+![alt text](images/Flag_of_EU.png)
+
 The **EU commercial document 142/2011 (2019/1084) Animal by-products/derived products not intended for human consumption** is needed for any transport of zoological research samples and is a basis/accompanying for permits and further documentation.
 
 Complete the EU commercial document: 
@@ -691,6 +693,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
