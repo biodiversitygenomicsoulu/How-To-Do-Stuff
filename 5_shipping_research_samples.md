@@ -435,6 +435,7 @@ If you transport the samples on your own:
 ---
 
 #### 5.1.1.5 Storage temperature during transport
+![alt text](images/ice.png)
 
 ##### 5.1.1.5.1 Do your samples have to be frozen or cooled?
 
@@ -518,6 +519,7 @@ If you transport the samples on your own:
 ---
 
 #### 5.1.1.6 Courier & airline regulations
+![alt text](images/IATAlogo.png) ![alt text](images/path18.png)
 
 ##### 5.1.1.6.1 Do you utilise a courier service?
 
@@ -702,6 +704,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
