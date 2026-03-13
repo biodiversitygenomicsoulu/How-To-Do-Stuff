@@ -369,7 +369,7 @@ First, The ***pro forma* invoice / donation receipt** for the samples has to be 
 - Issue date
 - Description of material and original species
 - Quantity of each sample type per species
-- nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only)
+- nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only; keep the total value < €150 ("low-value goods"))
 - the follwoing description; everything in [  ] you need to check and insert:
     > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for Costums purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; samples for research not infectious material biological substance, UN3373 category B**"
 - signiture by the owner / a respondsible person with the affilation of the owning institution
@@ -705,6 +705,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
