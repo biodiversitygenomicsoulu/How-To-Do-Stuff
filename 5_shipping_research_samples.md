@@ -545,7 +545,7 @@ If you transport the samples on your own:
 > Contact your courier service and clarify:
 > - what the **nature of the shipment** (so that they are aware of the content, will confirm that they handle those kinds of shipments, and the courier itself can handle it accordingly)
 >   - **biological samples** with all the permits etc.
->     - Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **UN3373 Category B** does apply.
+>     - Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **UN3373 Category B** does **not** apply.
 >   - clarification of the containment of **dry ice (UN 1845 Class 9 *Miscellaneous Dangerous Good*)** and/or **ethanol** (containing >24% ethanol; **UN1170 Class 3 *Flammable Liquid*)** 
 >   - Use of a **EPS/styrofoam box** as the cooling container (instead of a 'dry shipper')
 >   - **total weight**
@@ -677,7 +677,7 @@ The courier or person that transports must have all the original documents liste
 > - Put more coolant above samples (2/3). Colder air in the box will go down.
 >
 > - Stick the following lables well visible on the outer box (if needed):
->   - Biological samples (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
+>   - Biological samples, if infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
 >   - Dry ice (**UN 1845 Class 9 *Miscellaneous Dangerous Good***: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf) <details><summary> ℹ️ There are **UN 1845 Class 9 *Miscellaneous Dangerous Good*** available in our Molecular Lab! **Click to see Figure 4**: </summary> ![alt text](images/Dry_ice_label_1.png) ![alt text](images/Dry_ice_label_2.png) ![alt text](images/Dry_ice_label_3.jpeg) </details>
 >    - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
 > 
@@ -691,7 +691,7 @@ The courier or person that transports must have all the original documents liste
 > - Put all containers with liquid in at least two water-prove bags (e.g. zip-lock).
 >
 > - Stick the following lables well visible on the outer back or package (if needed):
->   - Biological samples (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
+>   - Biological samples, if infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
 >   - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
 > 
 > </details>
