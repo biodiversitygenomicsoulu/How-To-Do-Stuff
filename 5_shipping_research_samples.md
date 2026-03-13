@@ -380,12 +380,16 @@ https://tulli.fi/en/businesses/import/common-guidance/providing-value-details
 ###### **5.1.1.4.1.2 Custom declaration forms**
 
 Even though not necessary in every case, always prepare the following forms and send them for a customs clearance decision before transport together with **(1) CITES permites** (if needed), **(2) import permit from Ruokavirasto/Finnish Food Authority** (if needed), the **(3) EU commercial document**, and a **(4) *pro forma* invoice** or a **donation receipt** from the : 
-- **976e_25 Report of intended use:**  (= a Finnish Customs template form of the **SAD (Single Administrative Document) declaration**)
-  https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
 
-  → [📝 View SAD form example](documents/SAD_example.pdf)
+- if you transport the samples yourself*: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
+https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf/3e861db9-c446-a2b0-b83a-146af06a42a1/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf?t=1748857975637
 
-  ***Alternative for SAD form:***
+  ***Form 1143** is intended for private customers, but it is easier to fill in than the actual customs clearance form. Please complete the form using the University of Oulu’s information!:
+  - **Business ID: 0245895-5**
+  - **Guarantee GRN number** to be used in the University of Oulu’s import customs declaration: **03FI001200101482K**
+  - **EORI number** used by the University of Oulu in customs clearance: **FI0245895-5**
+
+  ***Alternative for SAD form (Single Administrative Document):***
   *Electronic declaration in the Customs Clearance Service (instead of paper, you submit an electronic import declaration in the Customs Clearance Service run by Finnish Customs):*  
   *- Wait until the plane has landed in Finland. The declaration cannot be submitted before arrival.*  
   *- Log into the Customs Clearance Service and submit the import declaration.*  
@@ -393,13 +397,16 @@ Even though not necessary in every case, always prepare the following forms and 
   *- When you pass customs at the airport: Choose the red channel / goods to declare.*  
   *- Show the MRN number to the customs officer.*
 
-- if you transport the samples yourself*: **1143e_10.2025 Private person’s declaration of goods imported from outside the customs and fiscal territory of the EU:**  
-https://tulli.fi/documents/162752825/203342719/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf/3e861db9-c446-a2b0-b83a-146af06a42a1/Private+person%E2%80%99s+declaration+of+goods+imported+from+outside+the+customs+and+fiscal+territory+of+the+EU.pdf?t=1748857975637
+    → [📝 View SAD form example](documents/SAD_example.pdf)
 
-***Form 1143** is intended for private customers, but it is easier to fill in than the actual customs clearance form. Please complete the form using the University of Oulu’s information!:
-- **Business ID: 0245895-5**
-- **Guarantee GRN number** to be used in the University of Oulu’s import customs declaration: **03FI001200101482K**
-- **EORI number** used by the University of Oulu in customs clearance: **FI0245895-5**
+**Summary:**  
+**1143e** → simplified import declaration for private persons.  
+**SAD** → standard EU customs declaration used mainly for commercial trade and complex customs procedures.
+
+**AND**
+
+- **976e_25 Report of intended use:**
+  https://tulli.fi/documents/162752825/203342722/Report%20of%20intended%20use/5bdad5bd-18f4-4e78-cc60-70eaa9620c0e/Report%20of%20intended%20use.pdf
 
 When goods are imported from outside the EU, the taxes to be paid typically include customs duty and value-added tax (VAT). Customs duties are determined according to the **tariff number** (CN code: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree) of the goods and their customs value. Our wildlife research samples for genetics are *MOSTLY* classified under the tariff number **CN code: 0511 99 85 90**. According to TARIC (https://taxation-customs.ec.europa.eu/customs/customs-tariff/eu-customs-tariff-taric_en), the standard third-country **customs duty** is typically 0%. However, **Import VAT** is generally payable. VAT relief may be available on a case-specific basis. Always consult Finnish Customs (Tulli) when applying for customs clearance!
 
@@ -705,6 +712,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
+
 
 
 
