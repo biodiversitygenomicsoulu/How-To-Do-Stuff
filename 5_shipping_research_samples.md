@@ -46,7 +46,7 @@ EU commercial document (at least) must include (recommended by Ruokavirasto (Fin
   - add the **Central Competent Authority (1.3**; here mostly SYKE and/or Ruokavirasto)
   - add the **Local Competent Authority (1.4)**
     - SYKE: **Hanne Rajanen, Ylitarkastaja (Senior Officer), Viranomaispalvelut (Authority Services), Tel: +358 29 5251 332, Email: cites@syke.fi**
-    - Veterianarian import permit: **Sonja Kneckt, veterinarian supervisior (Oulu municipality), Tel. +358 4470 3678, Email: sonja.kneckt@ouka.fi**
+    - Veterianarian import permit: **Hanna Salmela and Terhi Ticklén, veterinarian supervisiors (Oulu municipality), Tel. +358 505 753 753, Email: elainsuojelu@ouka.fi**
 
 → [📝 View EU commercial document form example](documents/commercial-document_traces_2026.pdf)
 
@@ -333,7 +333,7 @@ https://link.webropolsurveys.com/S/1613FC7408EFF0A5
 >>
 >> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
 >> 
->> Our local veterianrian supervision: **Sonja Kneckt, veterinarian supervisior (Oulu municipality), Tel. +358 4470 3678, Email: sonja.kneckt@ouka.fi**
+>> Our local veterianrian supervision: **Hanna Salmela and Terhi Ticklén, veterinarian supervisiors (Oulu municipality), Tel. +358 505 753 753, Email: elainsuojelu@ouka.fi**
 >>
 >> <details>
 >> <summary>📝 View examplary application for import permit (3 pages): </summary>
@@ -712,7 +712,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
-
+- Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
 
 
 
