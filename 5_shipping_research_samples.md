@@ -566,7 +566,7 @@ If you transport the samples on your own:
 > - exact time for picking up the parcel (schedled with the contact person on location)
 >
 > Especially the cooled shipments are expensive. It is worth it to check several courier services. We used those courier services already:
-> - **DHL**
+> - **DHL Express (Finland) Oy**: https://www.dhl.com/fi-en/home.html
 > - **GO! Express & Logistics Düsseldorf GmbH**: https://www.general-overnight.com/deu_en/products/go-express.html
 >
 > ###### **5.1.1.6.1.3 Receiving parcel**
