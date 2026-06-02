@@ -323,7 +323,13 @@ the "label"*
 >
 > Import permit from Ruokavirasto (Finnish Food Authority) is needed.
 >
-> The processing of the import permit takes **1-4 weeks** and costs **€164** in accordance with Regulation 820/2024 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €293, including the import permit price of €164 and the urgency surcharge of €129. It is recommended to collectivaly apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
+> The processing of the import permit takes **1-4 weeks** and costs **€172** in accordance with Regulation 1093/2025 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €307, including the import permit price of €172 and the urgency surcharge of €135. It is recommended to collectivaly apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
+>
+> Import permits are **valid for 2 years** after which a new import permit must be applied for. Mention all references you need for billing in the application!
+> 
+> Import permit is signed electronically and sent via secure email. Details of the conditions of import and references to legislation is found in the permit. It is important that the permit is applied well in advance in order to avoid delays or trouble in possible transit countries.
+>
+> Import permit can be issued in Finnish, Swedish or English. However, **English is most used and practical as it is usually understood in the country of origin and country(/ies) of transit**. Ruokavirasto does not provide translations after the permit is issued. Please check also the by-product category for the samples. They are according to Regulation 1069/2009 articles 8, 9 and 10 categories 1 (basically for TSE risk material), 2 and 3.
 >
 > Application form:  
 https://link.webropolsurveys.com/S/1613FC7408EFF0A5
@@ -356,14 +362,14 @@ https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-anima
 
 #### **5.1.1.4 Customs**
 
-##### **5.1.1.4.1 Tulli / Finnish Costums**
+##### **5.1.1.4.1 Tulli / Finnish Customs**
 
  ![alt text](images/Tulli_small.png)
 
 You need to declare the research samples at Finnish Customs (Tulli) for the import to Finland.
 
 ###### **5.1.1.4.1.1 *pro forma* invoice / donation receipt**
-First, The ***pro forma* invoice / donation receipt** for the samples has to be issed by the former owner of the samples. Its hould contain:
+First, The ***pro forma* invoice / donation receipt / loan agreement** for the samples has to be issed by the former owner of the samples. Its hould contain:
 - Sender's name and address
 - Recipient name and address (include registration **Business ID: 0245895-5**)
 - Issue date
@@ -371,7 +377,7 @@ First, The ***pro forma* invoice / donation receipt** for the samples has to be 
 - Quantity of each sample type per species
 - nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only; keep the total value < €150 ("low-value goods"))
 - the follwoing description; everything in [  ] you need to check and insert:
-    > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for Costums purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; samples for research not infectious material biological substance, UN3373 category B**"
+    > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for customs purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; please add "Biological samples for research – non-infectious"**
 - signiture by the owner / a respondsible person with the affilation of the owning institution
 
 More information on providing value details:  
@@ -545,7 +551,7 @@ If you transport the samples on your own:
 > Contact your courier service and clarify:
 > - what the **nature of the shipment** (so that they are aware of the content, will confirm that they handle those kinds of shipments, and the courier itself can handle it accordingly)
 >   - **biological samples** with all the permits etc.
->     - Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **UN3373 Category B** does **not** apply.
+>     - Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **UN3373 Category B** does **not** apply! No DG classification is needed but clearly describing the contents in documents and optionally marking “Biological samples for research – non-infectious” is recommended.
 >   - clarification of the containment of **dry ice (UN 1845 Class 9 *Miscellaneous Dangerous Good*)** and/or **ethanol** (containing >24% ethanol; **UN1170 Class 3 *Flammable Liquid*)** 
 >   - Use of a **EPS/styrofoam box** as the cooling container (instead of a 'dry shipper')
 >   - **total weight**
@@ -652,6 +658,8 @@ The courier or person that transports must have all the original documents liste
 - **Clearance decision** from Tulli
 - Completed **Shipper's Declaration** (include if necessary **biological samples (UN 3373 Category B)**, **dry ice (UN 1845 Class 9 *Miscellaneous Dangerous Good*)**, **> 24 % ethanol (UN 1170 Class 3 *Flammable Liquid)***)
 
+→ Documentation should be attached outside in a document pouch (copies), while originals (e.g. CITES) should be placed inside the shipment with a note indicating this.
+
 #### **5.1.1.2 Preparing the samples for a cooled transport?**
 > <details>
 > <summary>🟢 Yes</summary>
@@ -677,7 +685,7 @@ The courier or person that transports must have all the original documents liste
 > - Put more coolant above samples (2/3). Colder air in the box will go down.
 >
 > - Stick the following lables well visible on the outer box (if needed):
->   - Biological samples, if infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
+>   - Biological samples, **if** infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
 >   - Dry ice (**UN 1845 Class 9 *Miscellaneous Dangerous Good***: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf) <details><summary> ℹ️ There are **UN 1845 Class 9 *Miscellaneous Dangerous Good*** available in our Molecular Lab! **Click to see Figure 4**: </summary> ![alt text](images/Dry_ice_label_1.png) ![alt text](images/Dry_ice_label_2.png) ![alt text](images/Dry_ice_label_3.jpeg) </details>
 >    - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
 > 
@@ -691,7 +699,7 @@ The courier or person that transports must have all the original documents liste
 > - Put all containers with liquid in at least two water-prove bags (e.g. zip-lock).
 >
 > - Stick the following lables well visible on the outer back or package (if needed):
->   - Biological samples, if infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
+>   - Biological samples, **if** infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
 >   - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
 > 
 > </details>
@@ -713,6 +721,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
 - Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
+- Verison 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from DHL Express Finland
 
 
 
