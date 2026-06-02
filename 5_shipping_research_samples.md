@@ -20,6 +20,8 @@ Consider 6 different checks **BEFORE** shipping in this order:
 - **Storage temperature during transport** (why?: secure the preservation of the genetic material) → 5.1.1.5
 - **Courier & airline regulations** (why?: security regulations for transport) → 5.1.1.6
 
+→ For last check at **5.1.1 Ready for research sample transport**
+
 **Note:** try to use the same addresses of the consignor (sender) and consignee (you) on all the documents. Use the registed addresses from the CITES permits and/or import pemits from Ruokavirasto (Finnish Food Authority).
 
 ---
