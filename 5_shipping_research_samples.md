@@ -723,7 +723,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
 - Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
-- Verison 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from Markus Viinikainen (DHL Express Finland)
+- Verison 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from Markus Viinikainen (DHL Express Finland); checked by Jouni Aspi
 
 
 
