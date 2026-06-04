@@ -63,7 +63,7 @@ The commercial document must be drawn up in at least three copies (original copy
 #### **5.1.1.2 CITES**
  ![alt text](images/CITES_small.png)  ![alt text](images/SYKE_small.png)
 
-**CITES** = acroynym for the **Convention on International Trade in Endangered Species of Wild Fauna and Flora**, also known as the **Washington Convention**
+**CITES** = acronym for the **Convention on International Trade in Endangered Species of Wild Fauna and Flora**, also known as the **Washington Convention**
 
 ##### **5.1.1.2.1 CITES-listed taxon?**
 Please check if the taxon you want import samples from is listed under **Appendix I or II (or rarely Appendix III)**!
@@ -94,7 +94,7 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>> <details>
 >>> <summary>🟢 Yes</summary>
 >>>
->>> **Scientific exchange exemption (SEE)** and simplified CITES procedure possible if the conditions descriped in Table 1 are met.
+>>> **Scientific exchange exemption (SEE)** and simplified CITES procedure possible if the conditions described in Table 1 are met.
 >>>
 >>>> **Table 1:**
 >>>
@@ -239,7 +239,7 @@ the "label"*
 >>>>> - the **name** and **signature** of the person authorized to send the samples and that person's title/position
 >>>>> - **For CITES species**, the appendix to which they belong must be specified (I, II, III)
 >>>>>
->>>>> Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoologcal Museum in Oulu has to sign the document: https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/03/tieteellinen-vaihto-lipuke_fi_en2010.pdf
+>>>>> Jouni Aspi (Jouni.Aspi@oulu.fi) as the head of the CITES-registered Zoological Museum in Oulu has to sign the document: https://biodiversitygenomicsorg.wordpress.com/wp-content/uploads/2026/03/tieteellinen-vaihto-lipuke_fi_en2010.pdf
 >>>>>
 >>>>> Fill out the form and send us a copy of the label (at least the bottom part) by post or email cites@syke.fi. Syke archives the labels. You should also archive the copies in your institute so that the numbering of the tickets goes smoothly when you have several labels during the year.
 >>>>>
@@ -278,7 +278,7 @@ the "label"*
 >>>> Email: cites@syke.fi  
 >>>> Tel: +358 29 5251 332  
 >>>
->>> Contact your collaboration partner for their local Management Authority for the CITES export permition.
+>>> Contact your collaboration partner for their local Management Authority for the CITES export permit.
 >>>
 >>> Inform or ask Tuula Pudas (tuula.pudas@oulu.fi) in any case.
 >>>
@@ -330,7 +330,7 @@ the "label"*
 >>
 >> Import permit from Ruokavirasto (Finnish Food Authority) is needed.
 >>
->> The processing of the import permit takes **1-4 weeks** and costs **€172** in accordance with Regulation 1093/2025 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €307, including the import permit price of €172 and the urgency surcharge of €135. It is recommended to collectivaly apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
+>> The processing of the import permit takes **1-4 weeks** and costs **€172** in accordance with Regulation 1093/2025 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €307, including the import permit price of €172 and the urgency surcharge of €135. It is recommended to collectively apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
 >>
 >> Import permits are **valid for 2 years** after which a new import permit must be applied for. Mention all references you need for billing in the application!
 >> 
@@ -409,7 +409,7 @@ https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-anima
 You need to declare the research samples at Finnish Customs (Tulli) for the import to Finland.
 
 ###### **5.1.1.4.1.1 *pro forma* invoice / donation receipt**
-First, The ***pro forma* invoice / donation receipt / loan agreement** for the samples has to be issed by the former owner of the samples. Its hould contain:
+First, The ***pro forma* invoice / donation receipt / loan agreement** for the samples has to be issed by the former owner of the samples. It should contain:
 - Sender's name and address
 - Recipient name and address (include registration **Business ID: 0245895-5**)
 - Issue date
@@ -418,7 +418,7 @@ First, The ***pro forma* invoice / donation receipt / loan agreement** for the s
 - nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only; keep the total value < €150 ("low-value goods"))
 - the following description; everything in [  ] you need to check and insert:
     > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for customs purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; please add "Biological samples for research – non-infectious"**
-- signiture by the owner / a respondsible person with the affilation of the owning institution
+- signature by the owner / a respondsible person with the affilation of the owning institution
 
 More information on providing value details:  
 https://tulli.fi/en/businesses/import/common-guidance/providing-value-details
@@ -484,7 +484,7 @@ If you have questions regarding customs documention and clearance contact Jaana 
 
 If you transport the samples on your own:
 - **You have to declare the samples the first time you enter Finland.** If you have a transition at e.g. Helsinki on your way to Oulu: you have to go to **Tulli at Helsinki airport** at to declare them. You can reach the Helsinki Tulli counter from *International Transit Area* within the airport without the need to be security-checked again close to the **gates 29 / 30** (https://www.finavia.fi/en/airports/helsinki-airport/airport/services-facilities/customs-0). If nowbody is in the counter ring the bell on the right side of the counter. Tulli staff is 24/7 available.
-- **Consider a considerable transit time between the flights durig booking tickets.** You have to go to the counter and there might be a queue. 30 - 60 minutes between entering the airport's *International Transit Area* and boarding is neeed at least. The times at your tickets are the times for the plane's arrival and departure and not the times you enter the airport nor boarding for the next flight! Boarding usually closes latest 15 minutes before departure!
+- **Consider a considerable transit time between the flights during booking tickets.** You have to go to the counter and there might be a queue. 30 - 60 minutes between entering the airport's *International Transit Area* and boarding is neeed at least. The times at your tickets are the times for the plane's arrival and departure and not the times you enter the airport nor boarding for the next flight! Boarding usually closes latest 15 minutes before departure!
 
 ---
 
@@ -550,7 +550,7 @@ If you transport the samples on your own:
 >
 > Short summary for transport at room temperature (RT; ~+21 °C):
 >
-> Tested and recommended alternative sample preservatiuons without the need of a cooling chain that you can prepare: 
+> Tested and recommended alternative sample preservations without the need of a cooling chain that you can prepare: 
 >
 > ###### **5.1.1.5.1.3 Biological liquids (e.g. blood, saliva, urine, cloacal, etc.):**
 >
@@ -591,7 +591,7 @@ If you transport the samples on your own:
 > Contact your courier service and clarify:
 > - what the **nature of the shipment** (so that they are aware of the content, will confirm that they handle those kinds of shipments, and the courier itself can handle it accordingly)
 >   - **biological samples** with all the permits etc.
->     - Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **UN3373 Category B** does **not** apply! No DG classification is needed but clearly describing the contents in documents and optionally marking “Biological samples for research – non-infectious” is recommended.
+>     - Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **UN3373 Category B** does **not** apply! No DG classification is needed for the biological sample itself, but clearly describing the contents in documents and optionally marking “Biological samples for research – non-infectious” is recommended.
 >   - clarification of the containment of **dry ice (UN 1845 Class 9 *Miscellaneous Dangerous Good*)** and/or **ethanol** (containing >24% ethanol; **UN1170 Class 3 *Flammable Liquid*)** 
 >   - Use of a **EPS/styrofoam box** as the cooling container (instead of a 'dry shipper')
 >   - **total weight**
@@ -653,7 +653,7 @@ If you transport the samples on your own:
 >
 > ###### **5.1.1.6.1.4.2 Dry ice**
 >
-> Maximal **2.5 kg of dry ice is allowed as carry-on or checked baggage** if labelled (**UN 1845 class 9 '*Miscellaneous Dangerous Good*'**). Follow the **IATA Dangerous Goods Regulations**: "*Dry ice (carbon dioxide, solid), in quantities not exceeding 2.5 kg per person when used to pack perishables not subject to these Regulations in checked or carry-on baggage, provided the baggage (package) permits the release of carbon dioxide gas. Checked baggage must be marked “dry ice” or “carbon dioxide, solid” and with the net weight of dry ice or an indication that there is 2.5 kg or less dry ice*"
+> Maximal **2.5 kg of dry ice is allowed as carry-on or checked baggage** if the airline agrees and it is labelled (**UN 1845 class 9 '*Miscellaneous Dangerous Good*'**). Follow the **IATA Dangerous Goods Regulations**: "*Dry ice (carbon dioxide, solid), in quantities not exceeding 2.5 kg per person when used to pack perishables not subject to these Regulations in checked or carry-on baggage, provided the baggage (package) permits the release of carbon dioxide gas. Checked baggage must be marked “dry ice” or “carbon dioxide, solid” and with the net weight of dry ice or an indication that there is 2.5 kg or less dry ice*"
 >
 > **(1)** Verify the allowance of 2.5 kg with the airlines before booking. In case the airline as the operator does not allow it! Consider the baggage allowances when flying with several airlines!
 >
@@ -761,5 +761,5 @@ The courier or person that transports must have all the original documents liste
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
 - Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
-- Verison 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from Markus Viinikainen (DHL Express Finland); checked by Jouni Aspi
+- Version 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from Markus Viinikainen (DHL Express Finland); checked by Jouni Aspi
 - Version 1.6: Gerrit Wehrenberg, 04.06.2026; added comments from the Plant Health and Fertilizer Unit, Ruokavirasto/Finnish Food Authority
