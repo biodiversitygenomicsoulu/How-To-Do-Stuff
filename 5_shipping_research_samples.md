@@ -5,7 +5,7 @@
 Go through this step-by-step check list for shipping research samples along the key questions.
 
 > [!IMPORTANT]
-> This check list is only for internal use, based on experience and statements of the authorities, but **no** official guideline from one of the authorities, and subject to ongoing development! It is not exhaustive and there might be changes and or minor inaccuracies. Always contact the responsible institutions and authorities if you have questions (some contact information is noted below). See at the bottom of this document which authorities added comments for this guideline.
+> This check list is only for internal use, based on experience and statements of the authorities, but **no** official guideline from one of the authorities, and subject to ongoing development! It is not exhaustive and there might be changes and or minor inaccuracies. Always contact the responsible institutions and authorities if you have questions (contact information is noted below). See at the bottom of this document which authorities added comments for this guideline.
 
 ### 5.1.1 Before transport
 
