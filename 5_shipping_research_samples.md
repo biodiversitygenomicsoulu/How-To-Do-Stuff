@@ -5,7 +5,7 @@
 Go through this step-by-step check list for shipping research samples along the key questions.
 
 > [!IMPORTANT]
-> This preliminary check list is only for internal use, based on experience, no official guideline from one of the authorities, and subject to ongoing development! There might be changes and or inaccuracies. Always contact the responsible institutions and authorities if you have questions (some contact information is noted below).
+> This check list is only for internal use, based on experience and statements of the authorities, but **no** official guideline from one of the authorities, and subject to ongoing development! It is not exhaustive and there might be changes and or minor inaccuracies. Always contact the responsible institutions and authorities if you have questions (some contact information is noted below).
 
 ### 5.1.1 Before transport
 
@@ -15,7 +15,7 @@ Consider 6 different checks **BEFORE** shipping in this order:
 
 - **EU commercial document** (why?: complementary/basis for permits/declaration) → 5.1.1.1
 - **CITES** (why?: permission for international trade of protected species) → 5.1.1.2
-- **Ruokavirasto / Finnish Food Authority** (why?: veterinarian import permit) → 5.1.1.3
+- **Ruokavirasto / Finnish Food Authority** (why?: veterinarian/plant/soil import permit) → 5.1.1.3
 - **Customs** (why?: border control, import formalities, import duties) → 5.1.1.4
 - **Storage temperature during transport** (why?: secure the preservation of the genetic material) → 5.1.1.5
 - **Courier & airline regulations** (why?: security regulations for transport) → 5.1.1.6
@@ -307,57 +307,95 @@ the "label"*
 
 ![alt text](images/Ruokavirasto.png)
 
-##### **5.1.1.3.1 Import from EU country, Switzerland, or Norway?**
+##### **5.1.1.3.1 Import of zoological samples?**
 
 > <details>
 > <summary>🟢 Yes</summary>
 >
-> **No** veterinarian import permit from Ruokavirasto (Finnish Food Authority) is needed. 
+> ##### **5.1.1.3.1.1 Import from EU country, Switzerland, or Norway?**
+>>
+>> <details>
+>> <summary>🟢 Yes</summary>
+>>
+>> **No** veterinarian import permit for zoological samples from Ruokavirasto (Finnish Food Authority) is needed. 
+>>
+>> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2015; https://www.ruokavirasto.fi/globalassets/elaimet/elaimista-saatavat-sivutuotteet-ja-kuolleet-elaimet/sivutuotelaitoslistat/section_x.pdf)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
+>>
+>> Contact the **ABP (Animal By-Products) division at Ruokavirasto (Finnish Food Authority)** if you have questions from EU countries, Switzerland, or Norway: abp@ruokavirasto.fi
+>> 
+>> </details>
 >
-> The Finnish Food Authority has registered the **University of Oulu (Oulun yliopisto, FI-EVIRA-OTH-1-2015; https://www.ruokavirasto.fi/globalassets/elaimet/elaimista-saatavat-sivutuotteet-ja-kuolleet-elaimet/sivutuotelaitoslistat/section_x.pdf)** as an operator using animal by-products in research. No other authorization from the Finnish Food Authority in the internal market.
->
-> Contact the **ABP (Animal By-Products) division at Ruokavirasto (Finnish Food Authority)** if you have questions from EU countries, Switzerland, or Norway: abp@ruokavirasto.fi
-> 
+>> <details>
+>> <summary>🔴 No</summary>
+>>
+>> Import permit from Ruokavirasto (Finnish Food Authority) is needed.
+>>
+>> The processing of the import permit takes **1-4 weeks** and costs **€172** in accordance with Regulation 1093/2025 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €307, including the import permit price of €172 and the urgency surcharge of €135. It is recommended to collectivaly apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
+>>
+>> Import permits are **valid for 2 years** after which a new import permit must be applied for. Mention all references you need for billing in the application!
+>> 
+>> Import permit is signed electronically and sent via secure email. Details of the conditions of import and references to legislation is found in the permit. It is important that the permit is applied well in advance in order to avoid delays or trouble in possible transit countries.
+>>
+>> Import permit can be issued in Finnish, Swedish or English. However, **English is most used and practical as it is usually understood in the country of origin and country(/ies) of transit**. Ruokavirasto does not provide translations after the permit is issued. Please check also the by-product category for the samples. They are according to Regulation 1069/2009 articles 8, 9 and 10 categories 1 (basically for TSE risk material), 2 and 3.
+>>
+>> Application form:  
+https://link.webropolsurveys.com/S/1613FC7408EFF0A5
+>>> **Examplary application for import permit:**
+>>>
+>>> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
+>>>
+>> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
+>>> 
+>>> Our local veterianrian supervision: **Hanna Salmela and Terhi Ticklén, veterinarian supervisiors (Oulu municipality), Tel. +358 505 753 753, Email: elainsuojelu@ouka.fi**
+>>>
+>>> <details>
+>>> <summary>📝 View examplary application for import permit (3 pages): </summary>
+>>> 
+>>> ![alt text](images/image.png)
+>>> ![alt text](images/image-1.png)
+>>> ![alt text](images/image-2.png)
+>>> </details>
+>>
+>> Webpage with more information:  
+https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-animal-products/animal-by-products/elainperaisten-naytteiden-seka-nayttelyesineiden-tuonti/
+>>
+>> Contact the **Ruoka Tuontilupa (Food Import Permit) division at Ruokavirasto (Finnish Food Authority)** if you have questions: tuontilupa@ruokavirasto.fi
+>>
+>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
+>>
+>> </details>
 > </details>
 
 > <details>
 > <summary>🔴 No</summary>
 >
-> Import permit from Ruokavirasto (Finnish Food Authority) is needed.
->
-> The processing of the import permit takes **1-4 weeks** and costs **€172** in accordance with Regulation 1093/2025 of the Ministry of Agriculture and Forestry. The invoice will be sent after the permit is granted. If you selected urgent processing for the application, the processing takes less than 2 weeks and costs €307, including the import permit price of €172 and the urgency surcharge of €135. It is recommended to collectivaly apply for samples maybe with other projects or working groups. Different species, samples types, and imports from different locations are possible to be combined within one import permit!
->
-> Import permits are **valid for 2 years** after which a new import permit must be applied for. Mention all references you need for billing in the application!
-> 
-> Import permit is signed electronically and sent via secure email. Details of the conditions of import and references to legislation is found in the permit. It is important that the permit is applied well in advance in order to avoid delays or trouble in possible transit countries.
->
-> Import permit can be issued in Finnish, Swedish or English. However, **English is most used and practical as it is usually understood in the country of origin and country(/ies) of transit**. Ruokavirasto does not provide translations after the permit is issued. Please check also the by-product category for the samples. They are according to Regulation 1069/2009 articles 8, 9 and 10 categories 1 (basically for TSE risk material), 2 and 3.
->
-> Application form:  
-https://link.webropolsurveys.com/S/1613FC7408EFF0A5
->> **Examplary application for import permit:**
->>
->> Adjust the applicant, phone number and your email address. Check if the **billing liaison (University of Oulu)** and the **local veterinarian supervisor** are still currently in charge!
->>
->> University of Oulu registration: **Oulun yliopisto, FI-EVIRA-OTH-1-2015**
->> 
->> Our local veterianrian supervision: **Hanna Salmela and Terhi Ticklén, veterinarian supervisiors (Oulu municipality), Tel. +358 505 753 753, Email: elainsuojelu@ouka.fi**
+> You want to import **botanical/soil samples**.
+> >
+> ##### **5.1.1.3.1.2 Import from EU country, or Switzerland?**
 >>
 >> <details>
->> <summary>📝 View examplary application for import permit (3 pages): </summary>
+>> <summary>🟢 Yes</summary>
+>>
+>> **No** import permit for botanical/soil samples from Ruokavirasto (Finnish Food Authority) is needed. 
+>>
+>> Contact the **Plant Health and Fertilizer Unit at Ruokavirasto (Finnish Food Authority)** if you have questions from EU countries, or Switzerland: kasvinterveys@ruokavirasto.fi
 >> 
->> ![alt text](images/image.png)
->> ![alt text](images/image-1.png)
->> ![alt text](images/image-2.png)
 >> </details>
 >
-> Webpage with more information:  
-https://www.ruokavirasto.fi/en/themes/import-and-export/import/animals-and-animal-products/animal-by-products/elainperaisten-naytteiden-seka-nayttelyesineiden-tuonti/
->
-> Contact the **Ruoka Tuontilupa (Food Import Permit) division at Ruokavirasto (Finnish Food Authority)** if you have questions: tuontilupa@ruokavirasto.fi
->
-> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
->
+>> <details>
+>> <summary>🔴 No</summary>
+>>
+>> The import of organic **botanical/soil from outside the EU (other than Switzerland)** is forbidden due to plant health risks.
+>>
+>> For research purposes you may apply for an exception. More information can be found on our website: https://www.ruokavirasto.fi/en/themes/import-and-export/import/plants-and-plant-products/exeption-for-scientific-purposes/
+>>
+>> Receiving an exception requires that the applicant has **access to quarantine facilities** to where the relevant goods can be transported. Applicants must submit a **separate application form for the quarantine facilities**.
+>>
+>> Contact the **Plant Health and Fertilizer Unit at Ruokavirasto (Finnish Food Authority)**: kasvinterveys@ruokavirasto.fi
+>>
+>> → Keep the documents! You find the **"Legal Documents" folder** in the **BioDiv Genomics lab bay**.<details><summary> ℹ️ **Click to see where**: </summary> ![alt text](images/Lab_folder_bay_1.png) ![alt text](images/Lab_folder_2.png) </details>
+>>
+>> </details>
 > </details>
 
 ---
@@ -724,6 +762,7 @@ The courier or person that transports must have all the original documents liste
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
 - Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
 - Verison 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from Markus Viinikainen (DHL Express Finland); checked by Jouni Aspi
+- Version 1.6: Gerrit Wehrenberg, 04.06.2026; added comments from the Plant Health and Fertilizer Unit, Ruokavirasto/Finnish Food Authority
 
 
 
