@@ -63,7 +63,7 @@ The commercial document must be drawn up in at least three copies (original copy
 #### **5.1.1.2 CITES**
  ![alt text](images/CITES_small.png)  ![alt text](images/SYKE_small.png)
 
-**CITES** = acrynym for the **Convention on International Trade in Endangered Species of Wild Fauna and Flora**, also known as the **Washington Convention**
+**CITES** = acroynym for the **Convention on International Trade in Endangered Species of Wild Fauna and Flora**, also known as the **Washington Convention**
 
 ##### **5.1.1.2.1 CITES-listed taxon?**
 Please check if the taxon you want import samples from is listed under **Appendix I or II (or rarely Appendix III)**!
@@ -79,7 +79,7 @@ Please check if the taxon you want import samples from is listed under **Appendi
 >>
 >> **No** CITES permits are needed.
 >>
->> All derivates from a listed organism that was taken from the individual are needed to be permited (including DNA/RNA extracts or other molecular derivates!). Faecal or urine samples are considered as leftovers/not part of the body and not as a “specimen” that would need CITES permits.
+>> All derivates from a listed organism that was taken from the individual are needed to be permitted (including DNA/RNA extracts or other molecular derivates!). Faecal or urine samples are considered as leftovers/not part of the body and not as a “specimen” that would need CITES permits. Annoyingly, CITES interpretation can vary. Confirm with the relevant CITES Management Authority in cases of uncertainty!
 >>
 >> </details>
 >
@@ -160,7 +160,7 @@ the "label"*
 >>>>>
 >>>>> Our **Zoological Museum** in Oulu is CITES-registered, and we can get samples to another CITES-registered institution without a CITES permit.
 >>>>>
->>>>>> **Our CITES resgistration (https://cites.org/eng/node/11481)**:
+>>>>>> **Our CITES registration (https://cites.org/eng/node/11481)**:
 >>>>>
 >>>>>> **Institution number:** FI 010
 >>>>>>
@@ -416,7 +416,7 @@ First, The ***pro forma* invoice / donation receipt / loan agreement** for the s
 - Description of material and original species
 - Quantity of each sample type per species
 - nominal value for each samples type (**10 €** is a appropriate symbolic value for customs declaration only; keep the total value < €150 ("low-value goods"))
-- the follwoing description; everything in [  ] you need to check and insert:
+- the following description; everything in [  ] you need to check and insert:
     > "**This is a nominal valuation for Customs purpose only, The samples described above are provided for research purposes only from [*OWNER/COLLABORATION PARTNER*]. This transaction is conducted without any commercial purpose. As listed above, a value of [*VALUE*] can be placed on the consignment for customs purposes only if required. Incoterm: EXW; Tariff Number 05.11.9985 [*please check under: https://asiointi.tulli.fi/asiointipalvelu/fintaric/GoodsTree; also check for different number outside of the EU*]; EORI number of recipient: FI0245895-5; please add "Biological samples for research – non-infectious"**
 - signiture by the owner / a respondsible person with the affilation of the owning institution
 
@@ -603,13 +603,13 @@ If you transport the samples on your own:
 > - if the courier does the **customs clearance assignment** or if you have to do it
 > - exact time for picking up the parcel (schedled with the contact person on location)
 >
-> Especially the cooled shipments are expensive. It is worth it to check several courier services. We used those courier services already:
+> Especially the cooled shipments are expensive. It is worth comparing several courier services. We used those courier services already:
 > - **DHL Express (Finland) Oy**: https://www.dhl.com/fi-en/home.html
 > - **GO! Express & Logistics Düsseldorf GmbH**: https://www.general-overnight.com/deu_en/products/go-express.html
 >
 > ###### **5.1.1.6.1.3 Receiving parcel**
 >
-> Make sure that you or a colleague is available (also at phone) and on the scheduled time/location to pick up the sample (especially if the samples have to be frozen in the lab). Let the the person in the lab know where to store the samples. Soile Alatalo (laboratory manager; soile.alatalo@oulu.fi) will happly help you. If it is outside of her working hours you have to find another comtact person to receive the parcel.
+> Make sure that you or a colleague is available (also at phone) and on the scheduled time/location to pick up the sample (especially if the samples have to be frozen in the lab). Let the the person in the lab know where to store the samples. Soile Alatalo (laboratory manager; soile.alatalo@oulu.fi) will happly help you. If it is outside of her working hours you have to find another contact person to receive the parcel.
 >
 > </details>
 
@@ -649,13 +649,13 @@ If you transport the samples on your own:
 > 
 > ###### **5.1.1.6.1.4.1 Biological samples**
 >
-> Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens) and have to be lablled as **UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf
+> Our research samples are non-infectious (e.g., they are simply faecal samples stored in ethanol that do not contain harmful pathogens); **if** infectious, they have to be labelled as **UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf
 >
 > ###### **5.1.1.6.1.4.2 Dry ice**
 >
 > Maximal **2.5 kg of dry ice is allowed as carry-on or checked baggage** if labelled (**UN 1845 class 9 '*Miscellaneous Dangerous Good*'**). Follow the **IATA Dangerous Goods Regulations**: "*Dry ice (carbon dioxide, solid), in quantities not exceeding 2.5 kg per person when used to pack perishables not subject to these Regulations in checked or carry-on baggage, provided the baggage (package) permits the release of carbon dioxide gas. Checked baggage must be marked “dry ice” or “carbon dioxide, solid” and with the net weight of dry ice or an indication that there is 2.5 kg or less dry ice*"
 >
-> **(1)** Verify the allowance of 2.5 kg with the airlines before booking. In case ther airline as the operator does not allow it! Consider the baggage allowances when flying with several airlines!
+> **(1)** Verify the allowance of 2.5 kg with the airlines before booking. In case the airline as the operator does not allow it! Consider the baggage allowances when flying with several airlines!
 >
 > **(2)** Book your ticket and then inform your airline with you booking number about the dry ice in you baggage. Ask for a clearence document and print it - airport staff might already ask you for allowence before boarding.
 >
@@ -698,7 +698,7 @@ The courier or person that transports must have all the original documents liste
 - **Clearance decision** from Tulli
 - Completed **Shipper's Declaration** (include if necessary **biological samples (UN 3373 Category B)**, **dry ice (UN 1845 Class 9 *Miscellaneous Dangerous Good*)**, **> 24 % ethanol (UN 1170 Class 3 *Flammable Liquid)***)
 
-→ Documentation should be attached outside in a document pouch (copies), while originals (e.g. CITES) should be placed inside the shipment with a note indicating this.
+→ **Documentation should be attached outside in a document pouch (copies)**, while **originals (e.g. CITES) should be placed inside** the shipment with a note indicating this.
 
 #### **5.1.1.2 Preparing the samples for a cooled transport?**
 > <details>
@@ -736,7 +736,7 @@ The courier or person that transports must have all the original documents liste
 >
 > **Packing samples for transport in RT:**
 >
-> - Put all containers with liquid in at least two water-prove bags (e.g. zip-lock).
+> - Put all containers with liquid in at least two waterproof bags (e.g. zip-lock).
 >
 > - Stick the following lables well visible on the outer back or package (if needed):
 >   - Biological samples, **if** infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
@@ -763,16 +763,3 @@ The courier or person that transports must have all the original documents liste
 - Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
 - Verison 1.5: Gerrit Wehrenberg, 02.06.2026; added comments from  Elina Viitasaari (Border veterinarian at Ruokavirasto/Finnish Food Authority) and from Markus Viinikainen (DHL Express Finland); checked by Jouni Aspi
 - Version 1.6: Gerrit Wehrenberg, 04.06.2026; added comments from the Plant Health and Fertilizer Unit, Ruokavirasto/Finnish Food Authority
-
-
-
-
-
-
-
-
-
-
-
-
-
