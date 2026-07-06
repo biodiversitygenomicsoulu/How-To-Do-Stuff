@@ -655,9 +655,11 @@ If you transport the samples on your own:
 >
 > Maximal **2.5 kg of dry ice is allowed as carry-on or checked baggage** if the airline agrees and it is labelled (**UN 1845 class 9 '*Miscellaneous Dangerous Good*'**). Follow the **IATA Dangerous Goods Regulations**: "*Dry ice (carbon dioxide, solid), in quantities not exceeding 2.5 kg per person when used to pack perishables not subject to these Regulations in checked or carry-on baggage, provided the baggage (package) permits the release of carbon dioxide gas. Checked baggage must be marked “dry ice” or “carbon dioxide, solid” and with the net weight of dry ice or an indication that there is 2.5 kg or less dry ice*"
 >
-> **(1)** Verify the allowance of 2.5 kg with the airlines before booking. In case the airline as the operator does not allow it! Consider the baggage allowances when flying with several airlines!
+> **(1)** Verify the allowance of 2.5 kg with the airlines before booking. In case the airline as the operator does not allow it generally! Consider the baggage allowances when flying with several airlines!
 >
-> **(2)** Book your ticket and then inform your airline with you booking number about the dry ice in you baggage. Ask for a clearence document and print it - airport staff might already ask you for allowence before boarding.
+> **(2)** Book your ticket and then inform your airline with you booking number about the dry ice in you baggage. They need to add the information to the booking.
+> 
+> **(3)** At the day of transport: Arrive early at the airport with the samples on dry ice. Ask for a clearence at a check booth with personell of your airline. Sometimes you will get a clearence document - ask for a print. Sometimes the clearence is digitally added to your flight tickets. Airport staff might ask you for allowence before boarding! You can check-in online before the clearence.
 >
 > **Note:** Consider that your checked baggage could get lost during transit. It is advisable to transport the samples as carry-on baggage if the coolant will not last beyond the scheduled travel duration.
 >
@@ -726,7 +728,8 @@ The courier or person that transports must have all the original documents liste
 >
 > - Stick the following lables well visible on the outer box (if needed):
 >   - Biological samples, **if** infectious (**UN 3373 Category B**: https://www.ruokavirasto.fi/globalassets/laboratoriopalvelut/elaintautitutkimukset/pakkausohjeet/tulostettava-un-3373-merkki.pdf)
->   - Dry ice (**UN 1845 Class 9 *Miscellaneous Dangerous Good***: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf) <details><summary> ℹ️ There are **UN 1845 Class 9 *Miscellaneous Dangerous Good*** available in our Molecular Lab! **Click to see Figure 4**: </summary> ![alt text](images/Dry_ice_label_1.png) ![alt text](images/Dry_ice_label_2.png) ![alt text](images/Dry_ice_label_3.jpeg) </details>
+>   - Dry ice (**UN 1845 Class 9 *Miscellaneous Dangerous Good***: https://www.fedex.com/content/dam/fedex/us-united-states/services/Dry_Ice_Label.pdf). **Add the net weight** of the dry ice in your parcel on the 
+intended part of the label to be valid! <details><summary> ℹ️ There are **UN 1845 Class 9 *Miscellaneous Dangerous Good*** available in our Molecular Lab! **Click to see Figure 4**: </summary> ![alt text](images/Dry_ice_label_1.png) ![alt text](images/Dry_ice_label_2.png) ![alt text](images/Dry_ice_label_3.jpeg) </details>
 >    - over 24 % ethanol (**UN 1170 Class 3 *Flammable Liquid***)
 > 
 ></details>
@@ -757,7 +760,7 @@ The courier or person that transports must have all the original documents liste
 > biodiversity.genomics@oulu.fi
 
 - Version 1.0: Gerrit Wehrenberg, 28.02.2026
-- Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu)
+- Version 1.1: Gerrit Wehrenberg, 02.03.2026; added comments by Tuula Pudas (Zoological Museum Oulu); added details from Silvia Burgstaller (Head of Dept. Animal Presentations & Veterinary Service, Zürich Zoo)
 - Version 1.2: Gerrit Wehrenberg, 11.03.2026; added comments by Jaana Mikkonen (Tulli)
 - Version 1.3: Gerrit Wehrenberg, 12.03.2026; added comments by Hanne Rajanen (SYKE)
 - Version 1.4: Gerrit Wehrenberg, 20.05.2026; updated contacts for supervising municipal veterinarian in Oulu
