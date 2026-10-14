@@ -7,6 +7,13 @@ Go through this step-by-step check list for shipping research samples along the 
 > [!IMPORTANT]
 > This check list is only for internal use, based on experience and statements of the authorities, but **no** official guideline from one of the authorities, and subject to ongoing development! It is not exhaustive and there might be upcoming policy changes and or minor inaccuracies. Always contact the responsible institutions and authorities if you have questions (contact information is noted below). See at the bottom of this document which authorities added comments for this guideline.
 
+> [!IMPORTANT]
+> This check list does not yet include regulations according to the **Nagoya Protocol on Access and Benefit-sharing**.
+> 
+> Please consider to check applying regulations on your own as long it is not included here:
+> 
+> → https://www.cbd.int/abs/default.shtml
+
 ### 5.1.1 Before transport
 
 Prepare everything early! Apply for all permits **at least** 5 weeks before the transport!
